@@ -1,0 +1,65 @@
+{
+  "name": "sound-passport",
+  "version": "0.1.0",
+  "description": "A personal music catalog for choosing one track for every genre.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhoughton212/sound-passport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhoughton212/sound-passport/issues"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "vinext dev",
+    "build": "vinext build",
+    "predeploy": "npm run build",
+    "deploy": "vinext-cloudflare deploy --skip-build",
+    "prepare-genre-review": "tsx scripts/prepare-genre-review.ts",
+    "refresh-genre-review-index": "tsx scripts/refresh-genre-review-index.ts",
+    "promote-genre-candidates": "tsx scripts/promote-genre-candidates.ts",
+    "finalize-missing-genres": "node scripts/finalize-missing-genres.mjs",
+    "merge-genre-reviews": "tsx scripts/merge-genre-reviews.ts",
+    "verify-genre-review": "tsx scripts/verify-genre-reviews.ts",
+    "start": "vinext start",
+    "typecheck": "tsc --noEmit --incremental false",
+    "test": "npm run build && node --experimental-strip-types --test tests/domain.test.mjs tests/rendered-html.test.mjs",
+    "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
+  },
+  "dependencies": {
+    "music-metadata": "11.15.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "1.55.0",
+    "@eslint/js": "9.39.4",
+    "@next/eslint-plugin-next": "16.2.6",
+    "@tailwindcss/postcss": "4.2.1",
+    "@types/node": "22.19.19",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vinext/cloudflare": "1.0.0-beta.8",
+    "@vitejs/plugin-react": "6.1.1",
+    "@vitejs/plugin-rsc": "0.5.35",
+    "eslint": "9.39.4",
+    "eslint-plugin-jsx-a11y": "6.10.2",
+    "eslint-plugin-react": "7.37.5",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "globals": "16.4.0",
+    "react-server-dom-webpack": "19.3.0",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.59.3",
+    "vinext": "1.0.0-beta.10",
+    "vite": "8.3.0",
+    "wrangler": "4.134.0"
+  },
+  "type": "module",
+  "overrides": {
+    "zod-validation-error": "3.5.0"
+  }
+}

@@ -1,0 +1,3214 @@
+{
+  "hip-hop": [
+    {
+      "id": "32X0tTPXoWYNld9y1RRbFI",
+      "title": "The Message",
+      "artist": "Grandmaster Flash, The Furious Five, The Sugarhill Gang",
+      "album": "Rapper's Delight",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02deaf9a9d2374f7f449867265",
+      "spotifyUrl": "https://open.spotify.com/track/32X0tTPXoWYNld9y1RRbFI",
+      "note": "Minimal funk groove, rhythmic MCing, and socially grounded storytelling.",
+      "index": 0
+    },
+    {
+      "id": "0trHOzAhNpGCsGBEu7dOJo",
+      "title": "N.Y. State of Mind",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0271d840defb002ed3b180f7cd",
+      "spotifyUrl": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo",
+      "note": "Sample-driven beatmaking, intricate flow, lyricism, and vivid narrative rap.",
+      "index": 1
+    }
+  ],
+  "abstract-hip-hop": [
+    {
+      "id": "207jvv3SLF6CGhVW2gOanq",
+      "title": "None Shall Pass",
+      "artist": "Aesop Rock",
+      "album": "None Shall Pass",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02453eaf1e8feb981d6a807e0d",
+      "spotifyUrl": "https://open.spotify.com/track/207jvv3SLF6CGhVW2gOanq",
+      "note": "Dense wordplay over an off-center beat.",
+      "index": 0
+    },
+    {
+      "id": "67vrmPygrZ9giGqHUSReAT",
+      "title": "Accordion",
+      "artist": "Madvillain, Madlib, MF DOOM",
+      "album": "Madvillainy",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023e3bb917af94bd82074c5d47",
+      "spotifyUrl": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT",
+      "note": "Elliptical rhymes and an unconventional loop.",
+      "index": 1
+    }
+  ],
+  "boom-bap": [
+    {
+      "id": "0trHOzAhNpGCsGBEu7dOJo",
+      "title": "N.Y. State of Mind",
+      "artist": "Nas",
+      "album": "Illmatic",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0271d840defb002ed3b180f7cd",
+      "spotifyUrl": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo",
+      "note": "Hard kick-snare drums and detailed street narration.",
+      "index": 0
+    },
+    {
+      "id": "3lGBvPUgO7MJltUnBlOpe9",
+      "title": "Mass Appeal",
+      "artist": "Gang Starr",
+      "album": "Hard To Earn",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02be9fa0b820bcd93392d4047b",
+      "spotifyUrl": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9",
+      "note": "A clipped sample loop with precise rapping.",
+      "index": 1
+    }
+  ],
+  "cloud-rap": [
+    {
+      "id": "7v3rmoy5jcn4h5UqwQyCM3",
+      "title": "Ginseng Strip 2002",
+      "artist": "Yung Lean",
+      "album": "Lavender",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02581915272a4ffd12551c0202",
+      "spotifyUrl": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3",
+      "note": "Hazy synths and detached melodic delivery.",
+      "index": 0
+    },
+    {
+      "id": "3tTpvK7QgjjQCKGnHt5xn3",
+      "title": "Peso",
+      "artist": "A$AP Rocky",
+      "album": "LIVE.LOVE.A$AP",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd",
+      "spotifyUrl": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3",
+      "note": "Dreamlike production with relaxed flows.",
+      "index": 1
+    }
+  ],
+  "conscious-hip-hop": [
+    {
+      "id": "4uEgNznLaLZAfkHn36s7cC",
+      "title": "The 6th Sense",
+      "artist": "Common",
+      "album": "Like Water For Chocolate",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027bf7e051d397970737661d05",
+      "spotifyUrl": "https://open.spotify.com/track/4uEgNznLaLZAfkHn36s7cC",
+      "note": "Social observation delivered with lyrical clarity.",
+      "index": 0
+    },
+    {
+      "id": "3iVcZ5G6tvkXZkZKlMpIUs",
+      "title": "Alright",
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+      "spotifyUrl": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs",
+      "note": "Community, politics, and resilience over a modern beat.",
+      "index": 1
+    }
+  ],
+  "experimental-hip-hop": [
+    {
+      "id": "781V2Y5LPtcpgONEOadadE",
+      "title": "Get Got",
+      "artist": "Death Grips",
+      "album": "The Money Store",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b4f8459b0f719f8a97ee1c8c",
+      "spotifyUrl": "https://open.spotify.com/track/781V2Y5LPtcpgONEOadadE",
+      "note": "Rap fractured by noise and electronic abrasion.",
+      "index": 0
+    },
+    {
+      "id": "4Ninct3SYhYPFEZ5tNu4of",
+      "title": "Work Work",
+      "artist": "clipping., Cocc Pistol Cree",
+      "album": "CLPPNG",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02007401d5c6714488fe208aa1",
+      "spotifyUrl": "https://open.spotify.com/track/4Ninct3SYhYPFEZ5tNu4of",
+      "note": "Minimal industrial rhythm under technically exact vocals.",
+      "index": 1
+    }
+  ],
+  "hardcore-hip-hop": [
+    {
+      "id": "1v5cgIyffYtfEx0swttdoE",
+      "title": "Bring Da Ruckus",
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e025901aaa980d3e714bf01171c",
+      "spotifyUrl": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE",
+      "note": "Raw production and aggressive group interplay.",
+      "index": 0
+    },
+    {
+      "id": "550JPXXPgjr1xqxtKIaX6b",
+      "title": "Ante Up (Robbin Hoodz Theory)",
+      "artist": "M.O.P.",
+      "album": "Warriorz",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0299d5e13356b05f244af52d78",
+      "spotifyUrl": "https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b",
+      "note": "Shouted delivery over an explosive beat.",
+      "index": 1
+    }
+  ],
+  "jazz-rap": [
+    {
+      "id": "0eEXcw3JLVXcRxYrVYMy68",
+      "title": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "album": "The Anthology",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53",
+      "spotifyUrl": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68",
+      "note": "Warm jazz sampling and conversational flows.",
+      "index": 0
+    },
+    {
+      "id": "26q6YTrXt9l8qshIveiTX9",
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "album": "Reachin' (A New Refutation Of Time And Space)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c9f6a742f2337f938e89f599",
+      "spotifyUrl": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9",
+      "note": "Cool-jazz texture with laid-back rapping.",
+      "index": 1
+    }
+  ],
+  "rage": [
+    {
+      "id": "2lLG56qpLP3UbcLuzMvkWX",
+      "title": "Stop Breathing",
+      "artist": "Playboi Carti",
+      "album": "Whole Lotta Red",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0298ea0e689c91f8fea726d9bb",
+      "spotifyUrl": "https://open.spotify.com/track/2lLG56qpLP3UbcLuzMvkWX",
+      "note": "Distorted synth loops, blown-out bass, and relentless punk-charged delivery.",
+      "index": 0
+    },
+    {
+      "id": "5n4FTCMefvyKUjeWumdaWv",
+      "title": "Miss The Rage",
+      "artist": "Trippie Redd, Playboi Carti",
+      "album": "Trip At Knight",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021c0aacb7cb42f20914d319f4",
+      "spotifyUrl": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv",
+      "note": "Bright, surging synth arpeggios over hard trap drums and melodic vocals.",
+      "index": 1
+    }
+  ],
+  "southern-hip-hop": [
+    {
+      "id": "0shK5iZQppbHPQYiy60xs9",
+      "title": "Rosa Parks",
+      "artist": "Outkast",
+      "album": "Aquemini",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e2352cc20602d45e9a0e7617",
+      "spotifyUrl": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9",
+      "note": "Elastic Atlanta production and distinctive regional flows.",
+      "index": 0
+    },
+    {
+      "id": "4ns1XFP3W5JPyzvnAjMdHD",
+      "title": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+      "artist": "UGK, Outkast",
+      "album": "UGK (Underground Kingz)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020ecd0dec7edf87dab40d19b7",
+      "spotifyUrl": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD",
+      "note": "Soul sampling and contrasting Southern rap styles.",
+      "index": 1
+    }
+  ],
+  "trap": [
+    {
+      "id": "0CAJdthKDdRjB2h8YOguN6",
+      "title": "What You Know",
+      "artist": "T.I.",
+      "album": "King",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d5fa46459e5489190606f47f",
+      "spotifyUrl": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6",
+      "note": "Grand synths over crisp trap drums.",
+      "index": 0
+    },
+    {
+      "id": "3WcC6NH9J77xPEvj1SOL7z",
+      "title": "March Madness",
+      "artist": "Future",
+      "album": "56 Nights",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02dc014d6cf51f0ff8bdd76764",
+      "spotifyUrl": "https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z",
+      "note": "Rapid hi-hats, deep bass, and melodic rap.",
+      "index": 1
+    }
+  ],
+  "pop": [
+    {
+      "id": "7J1uxwnxfQLu4APicE5Rnj",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "album": "Thriller",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5",
+      "spotifyUrl": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+      "note": "A concise song built around an unforgettable hook.",
+      "index": 0
+    },
+    {
+      "id": "3y2Y3Bc6GDxAWAMIpbW7RU",
+      "title": "Into the Groove",
+      "artist": "Madonna",
+      "album": "Angel",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f1d95f4dbd086792e3ea5aa3",
+      "spotifyUrl": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU",
+      "note": "Direct melody and dance-floor momentum.",
+      "index": 1
+    }
+  ],
+  "art-pop": [
+    {
+      "id": "1PtQJZVZIdWIYdARpZRDFO",
+      "title": "Running Up That Hill (A Deal With God)",
+      "artist": "Kate Bush",
+      "album": "Hounds Of Love",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ad08f4b38efbff0c0da0f252",
+      "spotifyUrl": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO",
+      "note": "Pop structure shaped by unusual production and concept.",
+      "index": 0
+    },
+    {
+      "id": "4z1fNs2B7KndCsvyPgrhq5",
+      "title": "Hyperballad",
+      "artist": "Björk",
+      "album": "Post",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a865a9acd0169c7a014063b0",
+      "spotifyUrl": "https://open.spotify.com/track/4z1fNs2B7KndCsvyPgrhq5",
+      "note": "Emotional songwriting with adventurous electronic arrangement.",
+      "index": 1
+    }
+  ],
+  "baroque-pop": [
+    {
+      "id": "0ObrXLrfrqJUNc8RfmIBHP",
+      "title": "God Only Knows",
+      "artist": "The Beach Boys",
+      "album": "Pet Sounds (Original Mono & Stereo Mix)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02bde8dfd1922129f3d9e3732f",
+      "spotifyUrl": "https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP",
+      "note": "Ornate harmony and chamber-like instrumentation.",
+      "index": 0
+    },
+    {
+      "id": "6utiXjyN4dWoMNEZa2skxn",
+      "title": "Walk Away Renee",
+      "artist": "The Left Banke",
+      "album": "Walk Away Renée/Pretty Ballerina",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ccf837ee375cc7b34afb05ac",
+      "spotifyUrl": "https://open.spotify.com/track/6utiXjyN4dWoMNEZa2skxn",
+      "note": "String arrangement wrapped around concise pop songwriting.",
+      "index": 1
+    }
+  ],
+  "chamber-pop": [
+    {
+      "id": "1yupbrI7ROhigIHpQBevPh",
+      "title": "Chicago",
+      "artist": "Sufjan Stevens",
+      "album": "Illinois",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02712c76b4152918fb8d37c53d",
+      "spotifyUrl": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh",
+      "note": "Indie songwriting expanded with strings, horns, layered vocals, and orchestral arrangement.",
+      "index": 0
+    },
+    {
+      "id": "6q28LN1KJpsYqG5jNFy6rX",
+      "title": "The Stars of Track and Field",
+      "artist": "Belle and Sebastian",
+      "album": "If You're Feeling Sinister",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f34d475c7d683a9d7b5d1ae2",
+      "spotifyUrl": "https://open.spotify.com/track/6q28LN1KJpsYqG5jNFy6rX",
+      "note": "Delicate indie pop built around acoustic instruments, strings, and literate understated vocals.",
+      "index": 1
+    }
+  ],
+  "dance-pop": [
+    {
+      "id": "6I9VzXrHxO9rA9A5euc8Ak",
+      "title": "Toxic",
+      "artist": "Britney Spears",
+      "album": "In The Zone",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02efc6988972cb04105f002cd4",
+      "spotifyUrl": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak",
+      "note": "Immediate hooks over kinetic polished production.",
+      "index": 0
+    },
+    {
+      "id": "0SiywuOBRcynK0uKGWdCnn",
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "album": "The Fame Monster (Deluxe Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "spotifyUrl": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn",
+      "note": "Large chorus and club-oriented electronic rhythm.",
+      "index": 1
+    }
+  ],
+  "electropop": [
+    {
+      "id": "3Rc2ajBMInxeNGVkMPC92Y",
+      "title": "Dancing On My Own",
+      "artist": "Robyn",
+      "album": "Body Talk Pt. 1",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0214e2eafece9d75406a591978",
+      "spotifyUrl": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y",
+      "note": "Emotional pop carried by synthesizers and drum machines.",
+      "index": 0
+    },
+    {
+      "id": "6yRraj2ghJiIcVbQ6Vb59Q",
+      "title": "In For The Kill",
+      "artist": "La Roux",
+      "album": "La Roux",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0287a7b0bb506cb4416d8f8256",
+      "spotifyUrl": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q",
+      "note": "Sharp synth tones and a direct vocal hook.",
+      "index": 1
+    }
+  ],
+  "hypnagogic-pop": [
+    {
+      "id": "0IpxdHYUGxYvhZTeCdppH6",
+      "title": "Round and Round",
+      "artist": "Ariel Pink",
+      "album": "Before Today",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e6d607273a39fc70ca100606",
+      "spotifyUrl": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6",
+      "note": "Warped nostalgia presented through lo-fi pop.",
+      "index": 0
+    },
+    {
+      "id": "17vPVgWbYv0QGjO3LFn7Iw",
+      "title": "Believer",
+      "artist": "John Maus",
+      "album": "We Must Become the Pitiless Censors of Ourselves",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0250bc8ef82d299d7d8933b012",
+      "spotifyUrl": "https://open.spotify.com/track/17vPVgWbYv0QGjO3LFn7Iw",
+      "note": "Degraded synth-pop that feels remembered rather than reproduced.",
+      "index": 1
+    }
+  ],
+  "indie-pop": [
+    {
+      "id": "0KVWVuutF9Dn8li4HdyAeU",
+      "title": "Archie, Marry Me",
+      "artist": "Alvvays",
+      "album": "Alvvays",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c026df4196939fd87a2dc6d8",
+      "spotifyUrl": "https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU",
+      "note": "Bright melody with understated independent production.",
+      "index": 0
+    },
+    {
+      "id": "4lYcUbBIX51q2NdVYABFt2",
+      "title": "Lloyd, I'm Ready To Be Heartbroken",
+      "artist": "Camera Obscura",
+      "album": "Let's Get Out Of This Country",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02bc55fb708c69974b34aa1553",
+      "spotifyUrl": "https://open.spotify.com/track/4lYcUbBIX51q2NdVYABFt2",
+      "note": "Wistful songwriting with clean melodic economy.",
+      "index": 1
+    }
+  ],
+  "sophisti-pop": [
+    {
+      "id": "7pLuEMFougkSHXrPBtNxTR",
+      "title": "Smooth Operator",
+      "artist": "Sade",
+      "album": "Diamond Life",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ad27e16c5f844ea1ad6797cd",
+      "spotifyUrl": "https://open.spotify.com/track/7pLuEMFougkSHXrPBtNxTR",
+      "note": "Polished pop drawing on soul and jazz.",
+      "index": 0
+    },
+    {
+      "id": "4lYn0ZkJ81i0iBiVrG4mxc",
+      "title": "When Love Breaks Down",
+      "artist": "Prefab Sprout",
+      "album": "Steve McQueen",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02840c279f920ce11cd1ba4f0f",
+      "spotifyUrl": "https://open.spotify.com/track/4lYn0ZkJ81i0iBiVrG4mxc",
+      "note": "Refined harmony and immaculate studio arrangement.",
+      "index": 1
+    }
+  ],
+  "synthpop": [
+    {
+      "id": "1JekRMGQ8iN4G1AAdh0SBa",
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "album": "Violator (Deluxe)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02234bbbad4dce31cd2950af3e",
+      "spotifyUrl": "https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa",
+      "note": "A memorable pop song led by synthesizers.",
+      "index": 0
+    },
+    {
+      "id": "6wVViUl2xSRoDK2T7dMZbR",
+      "title": "Bizarre Love Triangle",
+      "artist": "New Order",
+      "album": "Brotherhood (Collector's Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02530a2c5dd17d2ddf8edc2978",
+      "spotifyUrl": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR",
+      "note": "Electronic rhythm bridging pop and club music.",
+      "index": 1
+    }
+  ],
+  "jazz": [
+    {
+      "id": "3mZ33QYHWylbabTz82rHwj",
+      "title": "So What",
+      "artist": "Miles Davis",
+      "album": "Pleasantville -Music From The Motion Picture",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ad1c9ca438b5579fb2f9f3f4",
+      "spotifyUrl": "https://open.spotify.com/track/3mZ33QYHWylbabTz82rHwj",
+      "note": "Spacious modal harmony and conversational improvisation.",
+      "index": 0
+    },
+    {
+      "id": "3ZikLQCnH3SIswlGENBcKe",
+      "title": "My Favorite Things",
+      "artist": "John Coltrane",
+      "album": "My Favorite Things",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c00913832628c23c7952ae7b",
+      "spotifyUrl": "https://open.spotify.com/track/3ZikLQCnH3SIswlGENBcKe",
+      "note": "A familiar melody transformed through extended improvisation.",
+      "index": 1
+    }
+  ],
+  "avant-garde-jazz": [
+    {
+      "id": "23aDP04QX8MAHA99FLaPtN",
+      "title": "Lonely Woman",
+      "artist": "Ornette Coleman",
+      "album": "The Shape Of Jazz To Come",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02959b7b4e572bf761177ea534",
+      "spotifyUrl": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN",
+      "note": "Plaintive horn melody floats over turbulent drums and bass with unusually free harmonic movement.",
+      "index": 0
+    },
+    {
+      "id": "2VzRmb0GCPDBv6FddHGu7s",
+      "title": "Hat And Beard",
+      "artist": "Eric Dolphy",
+      "album": "Out To Lunch (The Rudy Van Gelder Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02897c908969917eb7d620e0d1",
+      "spotifyUrl": "https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s",
+      "note": "Angular bass clarinet, dissonant intervals, fractured rhythms, and highly exploratory improvisation.",
+      "index": 1
+    }
+  ],
+  "bebop": [
+    {
+      "id": "1Urir4jonMpCWC4T1FbemZ",
+      "title": "Ko-Ko",
+      "artist": "Charlie Parker",
+      "album": "The Savoy 10-inch LP Collection",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02186a30786366eec767167a18",
+      "spotifyUrl": "https://open.spotify.com/track/1Urir4jonMpCWC4T1FbemZ",
+      "note": "Fast harmonic movement and virtuosic improvised lines.",
+      "index": 0
+    },
+    {
+      "id": "5fxJzPPvuvdhHypgme9cVX",
+      "title": "A Night In Tunisia",
+      "artist": "Dizzy Gillespie",
+      "album": "Birks Works: The Verve Big-Band Sessions",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021222fa92bd754f7ebdf14797",
+      "spotifyUrl": "https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX",
+      "note": "Angular melody, complex harmony, and rapid improvisation.",
+      "index": 1
+    }
+  ],
+  "bossa-nova": [
+    {
+      "id": "7znjbX9XdoQayIrVNdd50Z",
+      "title": "The Girl From Ipanema",
+      "artist": "Stan Getz",
+      "album": "Getz/Gilberto (Expanded Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
+      "spotifyUrl": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z",
+      "note": "Soft vocal phrasing over understated Brazilian rhythm.",
+      "index": 0
+    },
+    {
+      "id": "5D6aLJOQh1S37kspwydxOa",
+      "title": "Chega de Saudade",
+      "artist": "João Gilberto",
+      "album": "O Mito (Digital Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0282043fd4bbc740603243261c",
+      "spotifyUrl": "https://open.spotify.com/track/5D6aLJOQh1S37kspwydxOa",
+      "note": "Intimate guitar pulse and restrained singing.",
+      "index": 1
+    }
+  ],
+  "cool-jazz": [
+    {
+      "id": "1YQWosTIljIvxAgHWTp7KP",
+      "title": "Take Five",
+      "artist": "The Dave Brubeck Quartet",
+      "album": "Time Out",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b6bd44cf06bf8f4d5ce1e080",
+      "spotifyUrl": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP",
+      "note": "Relaxed tone and an unusual five-beat meter.",
+      "index": 0
+    },
+    {
+      "id": "0Wz6DLq8NBoi1viEqrdH9B",
+      "title": "Boplicity",
+      "artist": "Miles Davis",
+      "album": "Birth Of The Cool",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f44518f7aea6cc64ecca8448",
+      "spotifyUrl": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B",
+      "note": "Light ensemble color and carefully arranged restraint.",
+      "index": 1
+    }
+  ],
+  "free-jazz": [
+    {
+      "id": "6V8P6r0oHuTorKcoDYN0mv",
+      "title": "Free Jazz - Pts. 1 & 2",
+      "artist": "Ornette Coleman",
+      "album": "Free Jazz",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02042f493a9c11853b717556d9",
+      "spotifyUrl": "https://open.spotify.com/track/6V8P6r0oHuTorKcoDYN0mv",
+      "note": "Collective improvisation without conventional fixed structure.",
+      "index": 0
+    },
+    {
+      "id": "5s2AG3CgBFCDzTkAZyTKj2",
+      "title": "Ghosts: First Variation",
+      "artist": "Albert Ayler",
+      "album": "Spiritual Unity 50th Anniversary Expanded Edition",
+      "artwork": "https://i.scdn.co/image/614920eb5b7fd1791bdddabf53910ac76e62637b",
+      "spotifyUrl": "https://open.spotify.com/track/5s2AG3CgBFCDzTkAZyTKj2",
+      "note": "Simple theme pushed into ecstatic free improvisation.",
+      "index": 1
+    }
+  ],
+  "hard-bop": [
+    {
+      "id": "4Vkk3iD1VrENHJEACNddvt",
+      "title": "Moanin'",
+      "artist": "Art Blakey & The Jazz Messengers",
+      "album": "Moanin' (Expanded Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021b477a89a10fa567b1e0fd6e",
+      "spotifyUrl": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt",
+      "note": "Blues and gospel language with a forceful groove.",
+      "index": 0
+    },
+    {
+      "id": "1CDBaGlisZlOJzvx88lL8A",
+      "title": "Song For My Father",
+      "artist": "Horace Silver",
+      "album": "Song For My Father",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022bf57f865f7e88140d69a047",
+      "spotifyUrl": "https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A",
+      "note": "Earthy rhythm supporting memorable hard-bop writing.",
+      "index": 1
+    }
+  ],
+  "jazz-fusion": [
+    {
+      "id": "7eEp1mm5xRfPMpilLFUKwX",
+      "title": "Pharaoh's Dance",
+      "artist": "Miles Davis",
+      "album": "Bitches Brew",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023f29c5269be5a4e9c4611d7a",
+      "spotifyUrl": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX",
+      "note": "Electric instruments and studio editing reshape jazz improvisation.",
+      "index": 0
+    },
+    {
+      "id": "19vVghIuHm3IAfN4xpRF3q",
+      "title": "Birdland",
+      "artist": "Weather Report",
+      "album": "Heavy Weather",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021016655ec3d59ac9b33f8650",
+      "spotifyUrl": "https://open.spotify.com/track/19vVghIuHm3IAfN4xpRF3q",
+      "note": "Jazz harmony fused with funk rhythm and synthesizers.",
+      "index": 1
+    }
+  ],
+  "spiritual-jazz": [
+    {
+      "id": "0VtW9kU97Le5SQ0ml4nFzO",
+      "title": "The Creator Has A Master Plan",
+      "artist": "Pharoah Sanders",
+      "album": "Karma",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0249f8ab3adcdfd7d6acaa2e3a",
+      "spotifyUrl": "https://open.spotify.com/track/0VtW9kU97Le5SQ0ml4nFzO",
+      "note": "Mantric melody, ecstatic saxophone, dense percussion, chanting, and modal improvisation.",
+      "index": 0
+    },
+    {
+      "id": "2gG3ivmsfylVXLyIJvLXyN",
+      "title": "Journey In Satchidananda",
+      "artist": "Alice Coltrane, Pharoah Sanders",
+      "album": "Journey in Satchidananda",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0255c9b757d8d511d196350bfa",
+      "spotifyUrl": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN",
+      "note": "Harp, droning tambura, modal bass, and meditative saxophone create a cosmic devotional texture.",
+      "index": 1
+    }
+  ],
+  "rock": [
+    {
+      "id": "2QfiRTz5Yc8DdShCxG1tB2",
+      "title": "Johnny B. Goode",
+      "artist": "Chuck Berry",
+      "album": "Berry Is On Top",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a496dc8c33ca6d10668b3157",
+      "spotifyUrl": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2",
+      "note": "A foundational electric-guitar riff and driving backbeat.",
+      "index": 0
+    },
+    {
+      "id": "2PzU4IB8Dr6mxV3lHuaG34",
+      "title": "(I Can't Get No) Satisfaction - Mono",
+      "artist": "The Rolling Stones",
+      "album": "Out Of Our Heads",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+      "spotifyUrl": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34",
+      "note": "Riff-centered songwriting with direct rhythmic force.",
+      "index": 1
+    }
+  ],
+  "alternative-rock": [
+    {
+      "id": "5cy5IStIn7OSHDEIgXeDyq",
+      "title": "Debaser",
+      "artist": "Pixies",
+      "album": "Doolittle",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020ab3c2a306c614fae36ff1d6",
+      "spotifyUrl": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq",
+      "note": "Abrupt dynamics and unusual imagery outside mainstream rock.",
+      "index": 0
+    },
+    {
+      "id": "1dyTcli07c77mtQK3ahUZR",
+      "title": "Just",
+      "artist": "Radiohead",
+      "album": "The Bends",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+      "spotifyUrl": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR",
+      "note": "Angular guitars and tense songwriting with alternative-rock scale.",
+      "index": 1
+    }
+  ],
+  "art-rock": [
+    {
+      "id": "6q0bTn8XKEdSrSxfJpfNQz",
+      "title": "Life On Mars?",
+      "artist": "David Bowie",
+      "album": "Licorice Pizza (Original Motion Picture Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026533c426fc884ede08e1cdd9",
+      "spotifyUrl": "https://open.spotify.com/track/6q0bTn8XKEdSrSxfJpfNQz",
+      "note": "Dramatic pop-rock arranged with theatrical ambition.",
+      "index": 0
+    },
+    {
+      "id": "5ZgNecJcN9SSopnmCTlpXs",
+      "title": "Virginia Plain",
+      "artist": "Roxy Music",
+      "album": "Roxy Music",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e9b2422823fe249021f13da5",
+      "spotifyUrl": "https://open.spotify.com/track/5ZgNecJcN9SSopnmCTlpXs",
+      "note": "Stylized rock combining pop hooks and art-school experimentation.",
+      "index": 1
+    }
+  ],
+  "blues-rock": [
+    {
+      "id": "6FRwDxXsvSasw0y2eDArsz",
+      "title": "Sunshine Of Your Love",
+      "artist": "Cream",
+      "album": "Disraeli Gears",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f7d3ba2473d4452b83ba61c4",
+      "spotifyUrl": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz",
+      "note": "Heavy blues-scale riffing, overdriven guitar, muscular bass, and a loose blues-derived groove.",
+      "index": 0
+    },
+    {
+      "id": "3XxBSvDZKH5YvZZjTpn6eR",
+      "title": "Red House",
+      "artist": "Jimi Hendrix",
+      "album": "Are You Experienced",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c9adfbd773852e286faed040",
+      "spotifyUrl": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR",
+      "note": "Amplified electric-blues phrasing, expressive bends, gritty tone, and rock-level guitar intensity. Note: Spotify matched this to Jimi Hendrix — Red House; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "dream-pop": [
+    {
+      "id": "0AxZUYeQ9bZwSdt1LmZuok",
+      "title": "Heaven or Las Vegas",
+      "artist": "Cocteau Twins",
+      "album": "Heaven or Las Vegas",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02fe6211303e796f3d5b7a0e02",
+      "spotifyUrl": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok",
+      "note": "Layered guitars and voice create a luminous haze.",
+      "index": 0
+    },
+    {
+      "id": "2NfxtzCIrpCmJX5Z2KMdD5",
+      "title": "Myth",
+      "artist": "Beach House",
+      "album": "Bloom",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02bb9f22f4b196fa10308d77a7",
+      "spotifyUrl": "https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5",
+      "note": "Slow-moving melody inside an immersive atmosphere.",
+      "index": 1
+    }
+  ],
+  "emo": [
+    {
+      "id": "3FcY6HIcRiseHWUFe3lhGj",
+      "title": "Seven",
+      "artist": "Sunny Day Real Estate",
+      "album": "Diary at London Bridge Studio",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a13edd02bd146eff42220dcb",
+      "spotifyUrl": "https://open.spotify.com/track/3FcY6HIcRiseHWUFe3lhGj",
+      "note": "Emotionally urgent vocals with dynamic guitar changes.",
+      "index": 0
+    },
+    {
+      "id": "6kZqCqD1r08sJAQ1TjuEpM",
+      "title": "Never Meant",
+      "artist": "American Football",
+      "album": "American Football",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021e734783a00588087331a0b4",
+      "spotifyUrl": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM",
+      "note": "Intricate clean guitars and restrained melancholy.",
+      "index": 1
+    }
+  ],
+  "garage-rock": [
+    {
+      "id": "6u7UrwiZERRglVNSpgmxNf",
+      "title": "Strychnine",
+      "artist": "The Sonics",
+      "album": "Here Are the Sonics",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023b8f9c148e9eead1143c78e6",
+      "spotifyUrl": "https://open.spotify.com/track/6u7UrwiZERRglVNSpgmxNf",
+      "note": "Simple songwriting performed with raw distortion and attack.",
+      "index": 0
+    },
+    {
+      "id": "3SUusuA9jH1v6PVwtYMbdv",
+      "title": "Last Nite",
+      "artist": "The Strokes",
+      "album": "Is This It",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0213f2466b83507515291acce4",
+      "spotifyUrl": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv",
+      "note": "A stripped-down revival of rough concise rock.",
+      "index": 1
+    }
+  ],
+  "gothic-rock": [
+    {
+      "id": "1wyVyr8OhYsC9l0WgPPbh8",
+      "title": "Bela Lugosi's Dead (Official Version)",
+      "artist": "Bauhaus",
+      "album": "The Bela Session",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02811ad026ea2061659268b964",
+      "spotifyUrl": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8",
+      "note": "Sparse post-punk built into a dark theatrical atmosphere.",
+      "index": 0
+    },
+    {
+      "id": "6CWiTCxRgjCFGTnbi7UAi0",
+      "title": "A Forest",
+      "artist": "The Cure, Mark Saunders",
+      "album": "Greatest Hits",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020447ba639949dd26478decf6",
+      "spotifyUrl": "https://open.spotify.com/track/6CWiTCxRgjCFGTnbi7UAi0",
+      "note": "Prominent bass and guitar create nocturnal tension.",
+      "index": 1
+    }
+  ],
+  "indie-rock": [
+    {
+      "id": "4tBl1xhBg5PETpBvFnQmGl",
+      "title": "Cut Your Hair",
+      "artist": "Pavement",
+      "album": "Crooked Rain, Crooked Rain",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b893831d1a12d3d4024a5867",
+      "spotifyUrl": "https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl",
+      "note": "Loose performance and idiosyncratic independent songwriting.",
+      "index": 0
+    },
+    {
+      "id": "3GcRZ1Q9Q6NIeDNw3MVAWS",
+      "title": "Trailer Trash",
+      "artist": "Modest Mouse",
+      "album": "The Lonesome Crowded West",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026d36f5f881bb591a529e259b",
+      "spotifyUrl": "https://open.spotify.com/track/3GcRZ1Q9Q6NIeDNw3MVAWS",
+      "note": "Ragged guitars supporting observant personal lyrics.",
+      "index": 1
+    }
+  ],
+  "krautrock": [
+    {
+      "id": "7MoEff4RjWRyPIRG63uJ7K",
+      "title": "Halleluhwah",
+      "artist": "CAN",
+      "album": "Anthology (Remastered Version)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f7cd03a76a20bdf21f56d423",
+      "spotifyUrl": "https://open.spotify.com/track/7MoEff4RjWRyPIRG63uJ7K",
+      "note": "Repetition and a locked groove drive open-ended experimentation.",
+      "index": 0
+    },
+    {
+      "id": "1RyIA87KYGavtK0xiVXwDH",
+      "title": "Hallogallo",
+      "artist": "NEU!",
+      "album": "NEU!",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027c4dafea59399470cce454c3",
+      "spotifyUrl": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH",
+      "note": "The motorik beat carries minimal evolving guitar textures.",
+      "index": 1
+    }
+  ],
+  "math-rock": [
+    {
+      "id": "01VhYbUIdJABCY4Ceupxbn",
+      "title": "Fire Back About Your New Baby's Sex",
+      "artist": "Don Caballero",
+      "album": "American Don",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f9b4e9505b68872ac7f70d38",
+      "spotifyUrl": "https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn",
+      "note": "Interlocking guitars and drums disrupt regular meter.",
+      "index": 0
+    },
+    {
+      "id": "2pl1Yo26URVBFQRrJXvyuX",
+      "title": "Goodbye",
+      "artist": "toe",
+      "album": "I Am Shark: Confessions Under Water, Vol. 3",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0235837b179ea3485776175708",
+      "spotifyUrl": "https://open.spotify.com/track/2pl1Yo26URVBFQRrJXvyuX",
+      "note": "Precise rhythmic interplay balanced by melodic restraint.",
+      "index": 1
+    }
+  ],
+  "noise-rock": [
+    {
+      "id": "0WIbzDVEpmOyBnqqdtqIL9",
+      "title": "Teen Age Riot (Album Version)",
+      "artist": "Sonic Youth",
+      "album": "Daydream Nation (Deluxe Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0220f51363b9e2cbd207f158ba",
+      "spotifyUrl": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9",
+      "note": "Rock songwriting surrounded by alternate tunings and noise.",
+      "index": 0
+    },
+    {
+      "id": "0javu4aPWbHqwgAkJrAsVl",
+      "title": "Nub",
+      "artist": "The Jesus Lizard",
+      "album": "Goat (Remaster / Reissue)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0231797d4a2082d8077e1e38df",
+      "spotifyUrl": "https://open.spotify.com/track/0javu4aPWbHqwgAkJrAsVl",
+      "note": "Abrasive guitar and a lurching confrontational rhythm section.",
+      "index": 1
+    }
+  ],
+  "post-punk": [
+    {
+      "id": "2WEw8oFZiANQzWdGElO3Mf",
+      "title": "Disorder",
+      "artist": "Joy Division",
+      "album": "The Best Of",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f4bd5e92d66207ec37255902",
+      "spotifyUrl": "https://open.spotify.com/track/2WEw8oFZiANQzWdGElO3Mf",
+      "note": "Punk urgency redirected through bass, space, and atmosphere.",
+      "index": 0
+    },
+    {
+      "id": "6JK4rRp3HbsfgjKdVvMF2c",
+      "title": "Ex Lion Tamer",
+      "artist": "Wire",
+      "album": "I Am The Fly",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e028fedda5f7384633d94966ed5",
+      "spotifyUrl": "https://open.spotify.com/track/6JK4rRp3HbsfgjKdVvMF2c",
+      "note": "Minimal angular guitar expands punk's vocabulary.",
+      "index": 1
+    }
+  ],
+  "post-rock": [
+    {
+      "id": "5yvPB80VmfMUjkhUTn5ePX",
+      "title": "Storm",
+      "artist": "Godspeed You. Black Emperor",
+      "album": "Lift Your Skinny Fists Like Antennas To Heaven",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02319701022006b779c202c07f",
+      "spotifyUrl": "https://open.spotify.com/track/5yvPB80VmfMUjkhUTn5ePX",
+      "note": "Rock instruments form a long cinematic crescendo.",
+      "index": 0
+    },
+    {
+      "id": "0fvUM4C6KiRGfXEcUeNZXZ",
+      "title": "Mogwai Fear Satan",
+      "artist": "Mogwai",
+      "album": "Young Team",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d96290f5b01015c32a712b14",
+      "spotifyUrl": "https://open.spotify.com/track/0fvUM4C6KiRGfXEcUeNZXZ",
+      "note": "Quiet repetition grows into overwhelming guitar dynamics.",
+      "index": 1
+    }
+  ],
+  "progressive-rock": [
+    {
+      "id": "4eVH8dKkAmC5p90RvaCgUk",
+      "title": "Close to the Edge",
+      "artist": "Yes",
+      "album": "Symphonic Live",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02549df6d6fb177cbee8d85f2a",
+      "spotifyUrl": "https://open.spotify.com/track/4eVH8dKkAmC5p90RvaCgUk",
+      "note": "Long-form writing, shifting meters, and virtuosic ensemble playing.",
+      "index": 0
+    },
+    {
+      "id": "2MfrET7Nc3StKQcGoZKqr9",
+      "title": "21st Century Schizoid Man - Including \"Mirrors\"",
+      "artist": "King Crimson",
+      "album": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02da7b326bd7ffa7b6b95b0660",
+      "spotifyUrl": "https://open.spotify.com/track/2MfrET7Nc3StKQcGoZKqr9",
+      "note": "Heavy riffs collide with jazz complexity and abrupt structure.",
+      "index": 1
+    }
+  ],
+  "psychedelic-rock": [
+    {
+      "id": "6hkTlCORJcGHTFsYJA2Czm",
+      "title": "You're Gonna Miss Me",
+      "artist": "13th Floor Elevators",
+      "album": "Headstone - The Contact Sessions",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026ac6d1867dd2c9c5098b24fe",
+      "spotifyUrl": "https://open.spotify.com/track/6hkTlCORJcGHTFsYJA2Czm",
+      "note": "Garage rock altered by distortion and psychedelic intensity.",
+      "index": 0
+    },
+    {
+      "id": "4vpeKl0vMGdAXpZiQB2Dtd",
+      "title": "White Rabbit",
+      "artist": "Jefferson Airplane",
+      "album": "Surrealistic Pillow",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026a74089537c2dbd548c4a95e",
+      "spotifyUrl": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd",
+      "note": "A gradual build supports surreal imagery and unusual harmony.",
+      "index": 1
+    }
+  ],
+  "shoegaze": [
+    {
+      "id": "2pQ4A6w5HSurB5WiaLFhcF",
+      "title": "Only Shallow",
+      "artist": "my bloody valentine",
+      "album": "Amateur",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d51cbfb9e4a5795160302947",
+      "spotifyUrl": "https://open.spotify.com/track/2pQ4A6w5HSurB5WiaLFhcF",
+      "note": "Distorted guitar layers blur around subdued vocals.",
+      "index": 0
+    },
+    {
+      "id": "0oxYB9GoOIDrdzniNdKC44",
+      "title": "When the Sun Hits",
+      "artist": "Slowdive",
+      "album": "Souvlaki",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f6e31941d10e4819d290af41",
+      "spotifyUrl": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
+      "note": "Dreamlike melody rises through a dense guitar wash.",
+      "index": 1
+    }
+  ],
+  "slowcore": [
+    {
+      "id": "6WlmEymaXKMRs3D2c4j6os",
+      "title": "Inside Out",
+      "artist": "Duster",
+      "album": "Stratosphere",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022241587c8ce3d9051f4d4f74",
+      "spotifyUrl": "https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os",
+      "note": "Quiet repetition and sparse playing create melancholy tension.",
+      "index": 0
+    },
+    {
+      "id": "01OXa5tVuCssU6j8TY7kxr",
+      "title": "Words",
+      "artist": "Low",
+      "album": "I Could Live In Hope",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e028b7a5660aeb00a285ca66ffe",
+      "spotifyUrl": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr",
+      "note": "Extreme restraint makes every chord and vocal phrase matter.",
+      "index": 1
+    }
+  ],
+  "electronic": [
+    {
+      "id": "1h7iXjtC9X7V8VjGUiulri",
+      "title": "The Robots",
+      "artist": "Kraftwerk",
+      "album": "3-D The Catalogue",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02fccab622f52f8808ecb654d3",
+      "spotifyUrl": "https://open.spotify.com/track/1h7iXjtC9X7V8VjGUiulri",
+      "note": "Precise drum machines, sequenced synthesizers, vocoder vocals, and deliberately mechanized repetition.",
+      "index": 0
+    },
+    {
+      "id": "7o2AeQZzfCERsRmOM86EcB",
+      "title": "Xtal",
+      "artist": "Aphex Twin",
+      "album": "Selected Ambient Works 85-92",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a",
+      "spotifyUrl": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB",
+      "note": "Layered synth pads, programmed beats, sampled vocals, and warm yet unmistakably synthetic textures.",
+      "index": 1
+    }
+  ],
+  "ambient": [
+    {
+      "id": "1M88dT5bjWKgPpuDSmaZRR",
+      "title": "1/1",
+      "artist": "Brian Eno, Robert Wyatt, Rhett Davies, Bang On A Can All-Stars",
+      "album": "Eno/Wyatt/Davies: Music for Airports",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022d1ac95816133e10213b2eed",
+      "spotifyUrl": "https://open.spotify.com/track/1M88dT5bjWKgPpuDSmaZRR",
+      "note": "Slow piano figures prioritize atmosphere over direction.",
+      "index": 0
+    },
+    {
+      "id": "7m2iqOIBuCT0XvMkv4wYNv",
+      "title": "Requiem for Dying Mothers, Pt. 2",
+      "artist": "Stars Of The Lid",
+      "album": "The Tired Sounds of Stars of the Lid",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0265ff58390f0b7c44ec4d7aa5",
+      "spotifyUrl": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv",
+      "note": "Sustained tones create an immersive nearly weightless space.",
+      "index": 1
+    }
+  ],
+  "breakbeat": [
+    {
+      "id": "1auX4gkGe7hbrOH0BXdpV4",
+      "title": "Firestarter",
+      "artist": "The Prodigy",
+      "album": "The Fat of the Land",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027bb4dd1d02346ec2321a41d6",
+      "spotifyUrl": "https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4",
+      "note": "Aggressive chopped breakbeats, distorted synths, snarling vocals, and rave-rock intensity.",
+      "index": 0
+    },
+    {
+      "id": "1FNvrp5K02oThumS6gllzp",
+      "title": "Block Rockin' Beats",
+      "artist": "The Chemical Brothers",
+      "album": "Dig Your Own Hole",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02df9f87a1ff07a1bb500ad75f",
+      "spotifyUrl": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp",
+      "note": "Chunky sampled breaks, huge bass, repetitive vocal cuts, and densely looped psychedelic electronics.",
+      "index": 1
+    }
+  ],
+  "deep-house": [
+    {
+      "id": "4mNwbj8hTUjbyZSHdQVIuL",
+      "title": "Can You Feel It",
+      "artist": "Mr. Fingers",
+      "album": "Amnesia",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029568c6b3c059127cca642b4b",
+      "spotifyUrl": "https://open.spotify.com/track/4mNwbj8hTUjbyZSHdQVIuL",
+      "note": "Soft four-on-the-floor drums, warm sustained chords, deep bass, and hypnotic minimal repetition.",
+      "index": 0
+    },
+    {
+      "id": "1E8hMeQvfgvQPjN3BZ2viF",
+      "title": "Mystery of Love",
+      "artist": "Mr. Fingers",
+      "album": "Amnesia",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029568c6b3c059127cca642b4b",
+      "spotifyUrl": "https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF",
+      "note": "Soulful vocals, understated drum-machine groove, spacious synth chords, and warm nocturnal atmosphere. Note: Spotify matched this to Mr. Fingers — Mystery of Love; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "downtempo": [
+    {
+      "id": "67Hna13dNDkZvBpTXRIaOJ",
+      "title": "Teardrop",
+      "artist": "Massive Attack, Elizabeth Fraser",
+      "album": "Mezzanine",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022fcb0a3c7a66e516b11cd26e",
+      "spotifyUrl": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ",
+      "note": "A slow beat supports intimate vocals and dark atmosphere.",
+      "index": 0
+    },
+    {
+      "id": "7sqii6BhIDpJChYpU3WjwS",
+      "title": "Kiara",
+      "artist": "Bonobo",
+      "album": "Black Sands",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027da6d6787071a97593cfbcee",
+      "spotifyUrl": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS",
+      "note": "Organic samples and relaxed electronic rhythm emphasize texture.",
+      "index": 1
+    }
+  ],
+  "drum-and-bass": [
+    {
+      "id": "0O7xFEqePrcTUgOi4qe0uB",
+      "title": "Inner City Life",
+      "artist": "Goldie",
+      "album": "Inner City Life",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0275994b8451a838f7a5db54d7",
+      "spotifyUrl": "https://open.spotify.com/track/0O7xFEqePrcTUgOi4qe0uB",
+      "note": "Rapid breakbeats contrast with sweeping vocals and strings.",
+      "index": 0
+    },
+    {
+      "id": "4M04cLgZVSQq97IG2Uh2NE",
+      "title": "Renegade Snares",
+      "artist": "Omni Trio",
+      "album": "Renegade Snares (High Contrast Remix) / Renegade Snares",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e024ffcf0ab13a0ea6b7f0daeb5",
+      "spotifyUrl": "https://open.spotify.com/track/4M04cLgZVSQq97IG2Uh2NE",
+      "note": "Fast drums feel spacious through atmospheric harmony.",
+      "index": 1
+    }
+  ],
+  "dub-techno": [
+    {
+      "id": "1SbsYaTACZQ3YqeFLZ6Eie",
+      "title": "Phylyps Trak Ii/Ii",
+      "artist": "Basic Channel",
+      "album": "Phylyps Trak II",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0260c94bf48208efd330182513",
+      "spotifyUrl": "https://open.spotify.com/track/1SbsYaTACZQ3YqeFLZ6Eie",
+      "note": "Muted chords dissolve through echo over a minimal pulse.",
+      "index": 0
+    },
+    {
+      "id": "39F069Cs96smeQwgNkTnry",
+      "title": "Electromagnetic Dowsing - The Lost D Side",
+      "artist": "Deepchord",
+      "album": "Electromagnetic Dowsing (The Lost D Side)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b659eddeb83bc0c24eaab35e",
+      "spotifyUrl": "https://open.spotify.com/track/39F069Cs96smeQwgNkTnry",
+      "note": "Repetition, reverb, and texture obscure the techno grid.",
+      "index": 1
+    }
+  ],
+  "idm": [
+    {
+      "id": "0AjQvTAlYcWQ6JpJcUdsKw",
+      "title": "Vordhosbn",
+      "artist": "Aphex Twin",
+      "album": "Drukqs",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022f175ac7dee768cefd14a01c",
+      "spotifyUrl": "https://open.spotify.com/track/0AjQvTAlYcWQ6JpJcUdsKw",
+      "note": "Complex programmed rhythm remains intensely expressive.",
+      "index": 0
+    },
+    {
+      "id": "3Om7xxNAn64xJOuU9WVKtp",
+      "title": "Bike",
+      "artist": "Autechre",
+      "album": "Incunabula",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d95d559fcdb208dc8f2eeba6",
+      "spotifyUrl": "https://open.spotify.com/track/3Om7xxNAn64xJOuU9WVKtp",
+      "note": "Machine-like percussion shifts inside an abstract digital structure.",
+      "index": 1
+    }
+  ],
+  "industrial": [
+    {
+      "id": "6qRMlduvRTss9rQ6BXQD83",
+      "title": "Hamburger Lady",
+      "artist": "Throbbing Gristle",
+      "album": "The Taste of TG (A Beginner's Guide to the Music of Throbbing Gristle)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0282a14d70f4c410e929811af1",
+      "spotifyUrl": "https://open.spotify.com/track/6qRMlduvRTss9rQ6BXQD83",
+      "note": "Grinding electronic drone, primitive pulse, tape-like noise, and disturbing processed spoken vocals.",
+      "index": 0
+    },
+    {
+      "id": "01LIdfnR5GVzItAUoAJRjO",
+      "title": "Halber Mensch",
+      "artist": "Einstürzende Neubauten",
+      "album": "Halber Mensch",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02fa275f9c1c16f4f621942ecc",
+      "spotifyUrl": "https://open.spotify.com/track/01LIdfnR5GVzItAUoAJRjO",
+      "note": "Hammering metallic percussion, abrasive machinery-like textures, shouted vocals, and stark repetition.",
+      "index": 1
+    }
+  ],
+  "tech-house": [
+    {
+      "id": "2njwESXTGpNxoxbPpJSwGL",
+      "title": "Reggae's House",
+      "artist": "Terry Francis",
+      "album": "Dubtown",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d5471367116ac2955e7f9333",
+      "spotifyUrl": "https://open.spotify.com/track/2njwESXTGpNxoxbPpJSwGL",
+      "note": "Deep dubby bass, stripped house drums, and subtly mechanical textures.",
+      "index": 0
+    },
+    {
+      "id": "39HY3LGBkzsx2MPPtr2eZU",
+      "title": "Soul Is Life",
+      "artist": "Eddie Richards",
+      "album": "Soul Is Life / Mbaby",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0281286f481360ab88bf17d6a0",
+      "spotifyUrl": "https://open.spotify.com/track/39HY3LGBkzsx2MPPtr2eZU",
+      "note": "Skeletal percussion, rolling bass, and restrained techno-inflected loops. Note: The requested Eddie Richards recording was not exposed by Spotify search; this is an exact Eddie Richards track used as the closest available artist-level substitute.",
+      "index": 1
+    }
+  ],
+  "techno": [
+    {
+      "id": "0vBg4JYmBIyNgk1R3R0cX6",
+      "title": "Strings Of Life",
+      "artist": "Rhythim Is Rhythim",
+      "album": "Strings Of Life",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a7b12eba2d5c041cd3da684d",
+      "spotifyUrl": "https://open.spotify.com/track/0vBg4JYmBIyNgk1R3R0cX6",
+      "note": "Machine drums, urgent piano-and-string stabs, and propulsive Detroit futurism.",
+      "index": 0
+    },
+    {
+      "id": "0ISxyAhfop0MoMeAUw72RN",
+      "title": "The Bells",
+      "artist": "Jeff Mills",
+      "album": "SIGHT SOUND AND SPACE",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026cfa6ee1d1b15dcf2d021855",
+      "spotifyUrl": "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN",
+      "note": "Pounding 909 rhythms, a looping bell motif, and relentless hypnotic repetition.",
+      "index": 1
+    }
+  ],
+  "uk-garage": [
+    {
+      "id": "48ha6RZcXoYGzmWhCO7Ust",
+      "title": "Ripgroove",
+      "artist": "Double 99",
+      "album": "Double 99 Double Pack",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029af0f1258565f6d0380ef4ca",
+      "spotifyUrl": "https://open.spotify.com/track/48ha6RZcXoYGzmWhCO7Ust",
+      "note": "Heavily swung drums, rubbery bass, chopped vocals, and speed-garage pressure.",
+      "index": 0
+    },
+    {
+      "id": "6m98qKip8540hOYCQkj1DV",
+      "title": "Sincere",
+      "artist": "MJ Cole",
+      "album": "Café New York",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02de5ad47574f815931545c326",
+      "spotifyUrl": "https://open.spotify.com/track/6m98qKip8540hOYCQkj1DV",
+      "note": "Shuffling 2-step drums, warm keys and strings, and soulful vocals.",
+      "index": 1
+    }
+  ],
+  "metal": [
+    {
+      "id": "4svkPL62HbvyFgf0nHFXAF",
+      "title": "Iron Man",
+      "artist": "Black Sabbath",
+      "album": "The Ultimate Collection",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02012d727b175d4a91c792fb4c",
+      "spotifyUrl": "https://open.spotify.com/track/4svkPL62HbvyFgf0nHFXAF",
+      "note": "Massive distorted riffing, heavy drums, dark vocals, and blues-rooted weight.",
+      "index": 0
+    },
+    {
+      "id": "0L7zm6afBEtrNKo6C6Gj08",
+      "title": "Painkiller",
+      "artist": "Judas Priest",
+      "album": "Painkiller",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0260db4ca924d17bc6754e89aa",
+      "spotifyUrl": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08",
+      "note": "Double-kick drumming, screaming vocals, rapid twin guitars, and razor-sharp riffs.",
+      "index": 1
+    }
+  ],
+  "atmospheric-black-metal": [
+    {
+      "id": "5v3TSHYm8BzbON2u6QBEG7",
+      "title": "Dunkelheit",
+      "artist": "Burzum",
+      "album": "Filosofem",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02946cb01ce19e132b950409e3",
+      "spotifyUrl": "https://open.spotify.com/track/5v3TSHYm8BzbON2u6QBEG7",
+      "note": "Repetitive tremolo riffs, raw drums, synth haze, and distant rasped vocals.",
+      "index": 0
+    },
+    {
+      "id": "48HvHUnXNa1LSt3yhjFa2T",
+      "title": "I Will Lay Down My Bones Among The Rocks And Roots",
+      "artist": "Wolves In The Throne Room",
+      "album": "Two Hunters",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c6e7acb1862e86ee1b9acf6f",
+      "spotifyUrl": "https://open.spotify.com/track/48HvHUnXNa1LSt3yhjFa2T",
+      "note": "Expansive tremolo waves, blast beats, ambient passages, and long-form crescendos.",
+      "index": 1
+    }
+  ],
+  "black-metal": [
+    {
+      "id": "2fXlaMD3V7X5KzAC2WfH4Z",
+      "title": "Transilvanian Hunger",
+      "artist": "Darkthrone",
+      "album": "Transilvanian Hunger (20th Anniversary Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d6d60fc836a0f02f1fed89a0",
+      "spotifyUrl": "https://open.spotify.com/track/2fXlaMD3V7X5KzAC2WfH4Z",
+      "note": "Thin raw guitars, relentless tremolo picking, primitive drums, and icy rasping.",
+      "index": 0
+    },
+    {
+      "id": "4AP3a7eEOlz5sTJiWnv2C6",
+      "title": "Freezing Moon",
+      "artist": "Mayhem",
+      "album": "De Mysteriis Dom Sathanas",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022b58dcaa52f824711a95ab1b",
+      "spotifyUrl": "https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6",
+      "note": "Cold tremolo riffs, cavernous shrieks, stark bass, and severe martial drumming.",
+      "index": 1
+    }
+  ],
+  "death-metal": [
+    {
+      "id": "2l0h4aBFLp9HdoaNdCTlbW",
+      "title": "Pull the Plug",
+      "artist": "Death",
+      "album": "Leprosy (Deluxe Reissue)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02437e65ee8c9a1aa35ed36b90",
+      "spotifyUrl": "https://open.spotify.com/track/2l0h4aBFLp9HdoaNdCTlbW",
+      "note": "Crunching riffs, growled vocals, abrupt tempo shifts, and aggressive lead guitar.",
+      "index": 0
+    },
+    {
+      "id": "5hmek3mrSYvfSElBsPNbxo",
+      "title": "Immortal Rites",
+      "artist": "Morbid Angel",
+      "album": "Altars of Madness",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023e5b915ca435eb4e2b0d743e",
+      "spotifyUrl": "https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo",
+      "note": "Blasting drums, guttural vocals, twisted riffs, and chaotic atonal solos.",
+      "index": 1
+    }
+  ],
+  "doom-metal": [
+    {
+      "id": "6q4yVOTF91QRCukCQ1IzTV",
+      "title": "Black Sabbath",
+      "artist": "Black Sabbath",
+      "album": "The Ultimate Collection",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02012d727b175d4a91c792fb4c",
+      "spotifyUrl": "https://open.spotify.com/track/6q4yVOTF91QRCukCQ1IzTV",
+      "note": "Crawling tritone riff, sparse drums, ominous vocals, and crushing low-end weight.",
+      "index": 0
+    },
+    {
+      "id": "0v3WyEt2g04WFpfVwcnfXm",
+      "title": "Solitude",
+      "artist": "Candlemass",
+      "album": "Epicus Doomicus Metallicus",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0216fc29f6941572c718c58c5d",
+      "spotifyUrl": "https://open.spotify.com/track/0v3WyEt2g04WFpfVwcnfXm",
+      "note": "Monumental slow riffs, mournful melody, soaring clean vocals, and funereal pacing.",
+      "index": 1
+    }
+  ],
+  "drone-metal": [
+    {
+      "id": "5QUxHs4p29dA8nOtYtBZdG",
+      "title": "Seven Angels",
+      "artist": "Earth",
+      "album": "Earth 2",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023b7cb5decdb33c4617a28df3",
+      "spotifyUrl": "https://open.spotify.com/track/5QUxHs4p29dA8nOtYtBZdG",
+      "note": "Ultra-slow sustained guitar chords, immense low frequencies, and almost no conventional rhythm.",
+      "index": 0
+    },
+    {
+      "id": "7BzthK5pl4Z75h5eO3AtFK",
+      "title": "It Took the Night to Believe",
+      "artist": "sunn O)))",
+      "album": "Black One",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0218cf11719da84ded01baa101",
+      "spotifyUrl": "https://open.spotify.com/track/7BzthK5pl4Z75h5eO3AtFK",
+      "note": "Monolithic down-tuned guitar drones, feedback, sparse percussion, and ghostly screams.",
+      "index": 1
+    }
+  ],
+  "folk-metal": [
+    {
+      "id": "3PuIb9PEB8V97MGICfcxko",
+      "title": "The Widdershins Jig",
+      "artist": "Skyclad",
+      "album": "The Wayward Sons of Mother Earth",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026e61dab684dc10636783dc0f",
+      "spotifyUrl": "https://open.spotify.com/track/3PuIb9PEB8V97MGICfcxko",
+      "note": "Prominent folk violin woven directly into driving traditional-metal riffing.",
+      "index": 0
+    },
+    {
+      "id": "0bSAPnY0uCfqbmMjTARHUj",
+      "title": "Trollhammaren",
+      "artist": "Finntroll",
+      "album": "Nattfödd",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02fc082e9b8ab85f6518c76f6f",
+      "spotifyUrl": "https://open.spotify.com/track/0bSAPnY0uCfqbmMjTARHUj",
+      "note": "Bouncy folk melodies, accordion-like keyboards, harsh vocals, and galloping metal rhythms.",
+      "index": 1
+    }
+  ],
+  "post-metal": [
+    {
+      "id": "7eyK2gnvdlOwqHv8YH9bK7",
+      "title": "Through Silver In Blood",
+      "artist": "Neurosis",
+      "album": "Through Silver In Blood",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ec05ef763d730902c115ca5c",
+      "spotifyUrl": "https://open.spotify.com/track/7eyK2gnvdlOwqHv8YH9bK7",
+      "note": "Tectonic riffs, tribal percussion, noise textures, and slow-building apocalyptic intensity.",
+      "index": 0
+    },
+    {
+      "id": "2MXr8TAJEQE9CTfWMzjjOx",
+      "title": "So Did We",
+      "artist": "ISIS",
+      "album": "Live III 12.17.04",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f0b37675d826cccba36a50a9",
+      "spotifyUrl": "https://open.spotify.com/track/2MXr8TAJEQE9CTfWMzjjOx",
+      "note": "Quiet-loud dynamics, atmospheric guitars, repeated crushing riffs, and patient crescendos.",
+      "index": 1
+    }
+  ],
+  "sludge-metal": [
+    {
+      "id": "3X6cqWlADU8SVxAhfTIjYT",
+      "title": "Blank - remastered 2007",
+      "artist": "Eyehategod",
+      "album": "Take As Needed for Pain (Remastered Re-issue + Bonus Tracks)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c164d9d52212cbc0fe7d1f5c",
+      "spotifyUrl": "https://open.spotify.com/track/3X6cqWlADU8SVxAhfTIjYT",
+      "note": "Downtuned blues riffs, filthy feedback, hardcore abrasion, and ragged shouted vocals. Note: Spotify matched this to Eyehategod — Blank - remastered 2007; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "6AbPtd4Cxxkdzrda6E2WcO",
+      "title": "The Blue",
+      "artist": "Acid Bath",
+      "album": "When the Kite String Pops",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b7e60bf3437eff4ac464195d",
+      "spotifyUrl": "https://open.spotify.com/track/6AbPtd4Cxxkdzrda6E2WcO",
+      "note": "Swampy low-tuned riffs, heavy groove, harsh-clean vocal shifts, and Southern grit.",
+      "index": 1
+    }
+  ],
+  "thrash-metal": [
+    {
+      "id": "799XxzSlWNYkuWJxUbuGnF",
+      "title": "Master of Puppets",
+      "artist": "Metallica",
+      "album": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e029456740ce4c5a93003341286",
+      "spotifyUrl": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF",
+      "note": "Tight palm-muted downpicking, galloping rhythms, tempo shifts, and sharp melodic leads.",
+      "index": 0
+    },
+    {
+      "id": "4fiOTntQKr24p07FvQDHZE",
+      "title": "Raining Blood",
+      "artist": "Slayer",
+      "album": "Reign In Blood (Expanded)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d",
+      "spotifyUrl": "https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE",
+      "note": "Breakneck tremolo riffs, double-kick drums, barked vocals, and chaotic solos.",
+      "index": 1
+    }
+  ],
+  "country": [
+    {
+      "id": "0WwmFdGXe7Yky4T2J1oqLk",
+      "title": "Your Cheatin' Heart",
+      "artist": "Hank Williams",
+      "album": "Memorial Album (Expanded Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02058ec9749ace1aa96ab57829",
+      "spotifyUrl": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk",
+      "note": "Steel guitar, fiddle, simple acoustic rhythm, and an aching nasal vocal.",
+      "index": 0
+    },
+    {
+      "id": "6h3YJ05BovN1Pgk145J3r9",
+      "title": "Mama Tried",
+      "artist": "Merle Haggard",
+      "album": "Mama Tried/ Pride In What I Am",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022ad2990a9ccda2d86f69568b",
+      "spotifyUrl": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9",
+      "note": "Crisp Bakersfield twang, lean rhythm section, bright guitar, and plainspoken vocals.",
+      "index": 1
+    }
+  ],
+  "alt-country": [
+    {
+      "id": "1OTH0AgyDuo6KZ8BwHVRD1",
+      "title": "No Depression",
+      "artist": "Uncle Tupelo",
+      "album": "No Depression",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022d373c059244b5e0fe5335a6",
+      "spotifyUrl": "https://open.spotify.com/track/1OTH0AgyDuo6KZ8BwHVRD1",
+      "note": "Rough-edged guitars, country twang, roots instrumentation, and unpolished rock energy.",
+      "index": 0
+    },
+    {
+      "id": "5rUqENE7bmNffBbZDhVBty",
+      "title": "Car Wheels On A Gravel Road",
+      "artist": "Lucinda Williams",
+      "album": "Car Wheels On A Gravel Road",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a1601ac181badf6013e0c936",
+      "spotifyUrl": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty",
+      "note": "Twangy roots-rock guitars, relaxed shuffle, weathered vocals, and loose country groove.",
+      "index": 1
+    }
+  ],
+  "americana": [
+    {
+      "id": "51i1VCb9udXdzqrmJCP4Pb",
+      "title": "Look At Miss Ohio",
+      "artist": "Gillian Welch",
+      "album": "Soul Journey",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c3fbcfe2ae379afbeeee7113",
+      "spotifyUrl": "https://open.spotify.com/track/51i1VCb9udXdzqrmJCP4Pb",
+      "note": "Sparse acoustic picking, warm close vocals, and an earthy old-time roots feel.",
+      "index": 0
+    },
+    {
+      "id": "1b0QKU3QxqpWDsrdvTuvpM",
+      "title": "Something More Than Free",
+      "artist": "Jason Isbell",
+      "album": "Something More Than Free",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020d636a92ca157d0fdf2352c2",
+      "spotifyUrl": "https://open.spotify.com/track/1b0QKU3QxqpWDsrdvTuvpM",
+      "note": "Acoustic-led roots rock, restrained electric textures, and naturalistic country-folk vocals.",
+      "index": 1
+    }
+  ],
+  "bluegrass": [
+    {
+      "id": "1dKVXsVQUj8qaSXABFF10c",
+      "title": "Blue Moon of Kentucky",
+      "artist": "Bill Monroe",
+      "album": "I Saw the Light - The Bill Monroe Essential Collection",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e25121371fd9da5b89316bfb",
+      "spotifyUrl": "https://open.spotify.com/track/1dKVXsVQUj8qaSXABFF10c",
+      "note": "High-lonesome vocals, mandolin, fiddle, banjo, and driving acoustic string rhythm.",
+      "index": 0
+    },
+    {
+      "id": "29qFlNOssruDfoEN8vN2Uu",
+      "title": "Foggy Mountain Breakdown",
+      "artist": "Flatt & Scruggs",
+      "album": "Town and Country",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02eb29e3e4514ef5f374778827",
+      "spotifyUrl": "https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu",
+      "note": "Rapid three-finger banjo, acoustic string-band drive, and virtuosic instrumental breaks.",
+      "index": 1
+    }
+  ],
+  "country-rock": [
+    {
+      "id": "5bfvQG4NGiTFfUxPdMKrUd",
+      "title": "Sin City",
+      "artist": "The Flying Burrito Brothers",
+      "album": "The Gilded Palace Of Sin",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0253ba02e4c3b1b6a297002afa",
+      "spotifyUrl": "https://open.spotify.com/track/5bfvQG4NGiTFfUxPdMKrUd",
+      "note": "Pedal steel, close country harmonies, and laid-back rock-band accompaniment.",
+      "index": 0
+    },
+    {
+      "id": "4yugZvBYaoREkJKtbG08Qr",
+      "title": "Take It Easy - 2013 Remaster",
+      "artist": "Eagles",
+      "album": "Eagles (2013 Remaster)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c13acd642ba9f6f5f127aa1b",
+      "spotifyUrl": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr",
+      "note": "Strummed acoustic guitars, rock backbeat, bright twang, and polished country harmonies. Note: Spotify matched this to Eagles — Take It Easy - 2013 Remaster; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "outlaw-country": [
+    {
+      "id": "5Z0Khiz8xgC8AYMr4ctS8Y",
+      "title": "Are You Sure Hank Done It This Way",
+      "artist": "Waylon Jennings",
+      "album": "Dreaming My Dreams",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0260cefbd06c59a2b54dbc47e5",
+      "spotifyUrl": "https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y",
+      "note": "Phased electric guitar, muscular bass and drums, and Waylon’s deep unvarnished drawl.",
+      "index": 0
+    },
+    {
+      "id": "6gS6XQ4OqMddkgzHNz40E5",
+      "title": "Whiskey River",
+      "artist": "Willie Nelson",
+      "album": "Shotgun Willie",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02fd1f4f728a1168da26037477",
+      "spotifyUrl": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5",
+      "note": "Loose Texas-country groove, twangy guitar, relaxed phrasing, and stripped-back production.",
+      "index": 1
+    }
+  ],
+  "progressive-country": [
+    {
+      "id": "5paRS95sOPkOVQlmUIUF4B",
+      "title": "Bloody Mary Morning",
+      "artist": "Willie Nelson",
+      "album": "Phases And Stages",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0200389d912e15a781fcfbbc00",
+      "spotifyUrl": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B",
+      "note": "Rapid acoustic strumming, twangy picking, loose rhythm, and conversational country vocals.",
+      "index": 0
+    },
+    {
+      "id": "5Y2Tn6xgdV4R3BWEX9URaX",
+      "title": "Lonesome, On'ry and Mean",
+      "artist": "Waylon Jennings",
+      "album": "Lonesome, On'ry & Mean (Expanded Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b31e859d435c1ad306fccb0a",
+      "spotifyUrl": "https://open.spotify.com/track/5Y2Tn6xgdV4R3BWEX9URaX",
+      "note": "Gritty baritone, lean electric guitar, driving drums, and a rough anti-Nashville feel.",
+      "index": 1
+    }
+  ],
+  "randb": [
+    {
+      "id": "5yQ9iMZXGcr5rlO4hoLsP4",
+      "title": "What'd I Say, Pt. 1 & 2",
+      "artist": "Ray Charles",
+      "album": "What'd I Say",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d354ff4edc0533abb3de04db",
+      "spotifyUrl": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4",
+      "note": "Bluesy electric piano, call-and-response vocals, syncopated groove, and gospel-charged rhythm. Note: Spotify matched this to Ray Charles — What'd I Say, Pt. 1 & 2; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "4QTO9eLRONw0rzOVWU4uB4",
+      "title": "Are You That Somebody?",
+      "artist": "Aaliyah",
+      "album": "I Care 4 U",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02bcf7eaa996a731e167755b4c",
+      "spotifyUrl": "https://open.spotify.com/track/4QTO9eLRONw0rzOVWU4uB4",
+      "note": "Skittering programmed drums, deep bass, sparse textures, and silky rhythmic vocals.",
+      "index": 1
+    }
+  ],
+  "alternative-randb": [
+    {
+      "id": "2r7BPog74oaTG5shNYiUnV",
+      "title": "House Of Balloons / Glass Table Girls",
+      "artist": "The Weeknd",
+      "album": "House Of Balloons (Original)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02274b406a7e18acebcf743079",
+      "spotifyUrl": "https://open.spotify.com/track/2r7BPog74oaTG5shNYiUnV",
+      "note": "Hazy samples, cavernous drums, dark synth atmosphere, and detached falsetto vocals.",
+      "index": 0
+    },
+    {
+      "id": "7E66uxFz2NtHWAyiGXotha",
+      "title": "Two Weeks",
+      "artist": "FKA twigs",
+      "album": "LP1",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ea4c642d6f08639a4a700b72",
+      "spotifyUrl": "https://open.spotify.com/track/7E66uxFz2NtHWAyiGXotha",
+      "note": "Skeletal electronics, sub-bass, fractured percussion, and airy layered falsettos.",
+      "index": 1
+    }
+  ],
+  "contemporary-randb": [
+    {
+      "id": "54uLTcjNraWuwjqLrDhG23",
+      "title": "Try Again",
+      "artist": "Aaliyah",
+      "album": "Aaliyah",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022d1ec7f50bcb8be7b9746d10",
+      "spotifyUrl": "https://open.spotify.com/track/54uLTcjNraWuwjqLrDhG23",
+      "note": "Futuristic synths, stuttering drums, elastic bass, and understated breathy vocals.",
+      "index": 0
+    },
+    {
+      "id": "7J41dYQolQJEtj3UmKLu5r",
+      "title": "U Got It Bad",
+      "artist": "USHER",
+      "album": "8701",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027750146aac26aade0a867913",
+      "spotifyUrl": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r",
+      "note": "Polished slow-jam drums, warm guitar, spacious keys, and expressive melismatic singing.",
+      "index": 1
+    }
+  ],
+  "funk": [
+    {
+      "id": "2ivdsb1RcEJjIs5tuHkUC9",
+      "title": "Get Up (I Feel Like Being A) Sex Machine",
+      "artist": "James Brown",
+      "album": "Star Time",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02818c45ca29446e7352ba187f",
+      "spotifyUrl": "https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9",
+      "note": "Interlocking rhythm guitar, clipped horns, repetitive bass, and intensely percussive vocals.",
+      "index": 0
+    },
+    {
+      "id": "4XRkQloZFcRrCONN7ZQ49Y",
+      "title": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "artist": "Parliament",
+      "album": "Mothership Connection",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02777c5fdae315d921a3784f21",
+      "spotifyUrl": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y",
+      "note": "Huge elastic bass, stacked chants, syncopated keyboards, and exuberant ensemble grooves.",
+      "index": 1
+    }
+  ],
+  "neo-soul": [
+    {
+      "id": "0tNuJpBgtE65diL6Q8Q7fI",
+      "title": "On & On",
+      "artist": "Erykah Badu",
+      "album": "Baduizm",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b5e18a80757ba2f787213d21",
+      "spotifyUrl": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI",
+      "note": "Dusty hip-hop drums, warm Rhodes chords, jazz harmony, and languid phrasing.",
+      "index": 0
+    },
+    {
+      "id": "4oPNN7syJYSjzDhRerF966",
+      "title": "Untitled (How Does It Feel)",
+      "artist": "D'Angelo",
+      "album": "Voodoo",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022b3dc336a7a69293c25d9ade",
+      "spotifyUrl": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
+      "note": "Loose pocket, warm analog keys, restrained guitar, and layered gospel-soul falsettos.",
+      "index": 1
+    }
+  ],
+  "quiet-storm": [
+    {
+      "id": "1JhpdM2PtIsKC0lrBTPSAK",
+      "title": "Quiet Storm",
+      "artist": "Smokey Robinson",
+      "album": "A Quiet Storm",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02cf3294951a55b8d66367d231",
+      "spotifyUrl": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK",
+      "note": "Silky electric piano, mellow bass, soft percussion, and intimate floating vocals.",
+      "index": 0
+    },
+    {
+      "id": "4xVXe1VS5zlQyECVk6GRrL",
+      "title": "Sweet Love",
+      "artist": "Anita Baker",
+      "album": "Sweet Love",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0257901fb66499da37fb3fb1e9",
+      "spotifyUrl": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL",
+      "note": "Plush keyboards, jazz-inflected harmony, restrained groove, and rich contralto vocals.",
+      "index": 1
+    }
+  ],
+  "soul": [
+    {
+      "id": "7s25THrKz86DM225dOYwnr",
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "album": "I Never Loved a Man the Way I Love You",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026aa9314b7ddfbd8f036ba3ac",
+      "spotifyUrl": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr",
+      "note": "Punchy horns, gospel-derived vocals, driving rhythm section, and emphatic call-and-response.",
+      "index": 0
+    },
+    {
+      "id": "63xdwScd1Ai1GigAwQxE8y",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "album": "Let's Stay Together",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a1fc113a6858d0824d9aaf38",
+      "spotifyUrl": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y",
+      "note": "Supple bass, clipped guitar, warm horns, organ, and effortless falsetto-inflected singing.",
+      "index": 1
+    }
+  ],
+  "folk": [
+    {
+      "id": "2WOjLF83vqjit2Zh4B69V3",
+      "title": "Don't Think Twice, It's All Right",
+      "artist": "Bob Dylan",
+      "album": "The Freewheelin' Bob Dylan",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c7f7596cd80cbd6436086f80",
+      "spotifyUrl": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3",
+      "note": "Fingerpicked acoustic guitar, spare arrangement, nasal vocals, and unadorned melodic storytelling.",
+      "index": 0
+    },
+    {
+      "id": "1pjATX7sbd6Y4jMVqIvzHk",
+      "title": "Both Sides Now",
+      "artist": "Joni Mitchell",
+      "album": "Both Sides Now",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020c115876a70e1d0efb4385f1",
+      "spotifyUrl": "https://open.spotify.com/track/1pjATX7sbd6Y4jMVqIvzHk",
+      "note": "Delicate acoustic strumming, clear melodic vocals, and an intimate minimally arranged texture.",
+      "index": 1
+    }
+  ],
+  "acid-folk": [
+    {
+      "id": "7CjAlxov26NzIA25pzEwYh",
+      "title": "A Very Cellular Song",
+      "artist": "Incredible String Band",
+      "album": "Nebulous Nearnesses",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d1653f11bda1dc9cd4e200c4",
+      "spotifyUrl": "https://open.spotify.com/track/7CjAlxov26NzIA25pzEwYh",
+      "note": "Acoustic folk instrumentation, shifting sections, drones, chants, and psychedelic eccentricity. Note: Spotify matched this to Incredible String Band — A Very Cellular Song; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "4iNCuJprpaDv5NO8SGeICO",
+      "title": "Diana",
+      "artist": "Comus",
+      "album": "First Utterance",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ec3450deeea1a43afc6c0c2c",
+      "spotifyUrl": "https://open.spotify.com/track/4iNCuJprpaDv5NO8SGeICO",
+      "note": "Frenetic acoustic strings, hand percussion, eerie vocals, and ritualistic psychedelic intensity.",
+      "index": 1
+    }
+  ],
+  "contemporary-folk": [
+    {
+      "id": "2M9ro2krNb7nr7HSprkEgo",
+      "title": "Fast Car",
+      "artist": "Tracy Chapman",
+      "album": "Tracy Chapman",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0290b8a540137ee2a718a369f9",
+      "spotifyUrl": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo",
+      "note": "Repeating acoustic-guitar figure, understated rhythm, warm low vocals, and uncluttered production.",
+      "index": 0
+    },
+    {
+      "id": "3KLtHfl1z17beGV5el2yeU",
+      "title": "Everything Is Free",
+      "artist": "Gillian Welch",
+      "album": "Time (The Revelator)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e44e45c473ed851a9c3da07e",
+      "spotifyUrl": "https://open.spotify.com/track/3KLtHfl1z17beGV5el2yeU",
+      "note": "Bare acoustic guitar, close harmonies, restrained tempo, and stark intimate recording.",
+      "index": 1
+    }
+  ],
+  "folk-rock": [
+    {
+      "id": "2HCaIYjkvWSZzaSKUoOh3d",
+      "title": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "album": "Mr. Tambourine Man",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02576fccf9a91d9f7c808b8abd",
+      "spotifyUrl": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d",
+      "note": "Jangling electric twelve-string, bright harmonies, folk melody, and a steady rock backbeat.",
+      "index": 0
+    },
+    {
+      "id": "3YfS47QufnLDFA71FUsgCM",
+      "title": "The Sound of Silence",
+      "artist": "Simon & Garfunkel",
+      "album": "The Singer",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02dd9e17a2000252d6b79cf904",
+      "spotifyUrl": "https://open.spotify.com/track/3YfS47QufnLDFA71FUsgCM",
+      "note": "Close folk harmonies and acoustic writing reinforced by electric guitar, bass, and drums.",
+      "index": 1
+    }
+  ],
+  "indie-folk": [
+    {
+      "id": "3B3eOgLJSqPEA0RfboIQVM",
+      "title": "Skinny Love",
+      "artist": "Bon Iver",
+      "album": "For Emma, Forever Ago",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02bf7c317a63c4f128b8823406",
+      "spotifyUrl": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM",
+      "note": "Raw acoustic guitar, cracked falsetto, sparse percussion, and an intimate homespun recording.",
+      "index": 0
+    },
+    {
+      "id": "0GegHVxeozw3rdjte45Bfx",
+      "title": "White Winter Hymnal",
+      "artist": "Fleet Foxes",
+      "album": "Fleet Foxes",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023818b4c636e2a7fdea3bf965",
+      "spotifyUrl": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx",
+      "note": "Layered pastoral harmonies, acoustic strumming, hand percussion, and reverberant rustic production.",
+      "index": 1
+    }
+  ],
+  "neofolk": [
+    {
+      "id": "3DgjO7TQZKe9dh23qoOyu1",
+      "title": "A Sadness Song",
+      "artist": "Current 93",
+      "album": "Thunder Perfect Mind",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0218687bb14cfd2f4bb3ccedb8",
+      "spotifyUrl": "https://open.spotify.com/track/3DgjO7TQZKe9dh23qoOyu1",
+      "note": "Repetitive acoustic guitar, mournful strings, incantatory vocals, and dark pastoral atmosphere.",
+      "index": 0
+    },
+    {
+      "id": "5TZDbfUQD0ybxJEEDuva9S",
+      "title": "The Calling (Mk II)",
+      "artist": "Death In June",
+      "album": "Nada!",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e028a8d82297fe154aa2901061e",
+      "spotifyUrl": "https://open.spotify.com/track/5TZDbfUQD0ybxJEEDuva9S",
+      "note": "Martial acoustic strumming, austere baritone vocals, sparse percussion, and post-industrial gloom.",
+      "index": 1
+    }
+  ],
+  "singer-songwriter": [
+    {
+      "id": "7shVwhUdVbHpykOfbzvDc1",
+      "title": "A Case of You",
+      "artist": "Joni Mitchell",
+      "album": "Blue",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e79dc1438d650f426b5e99a7",
+      "spotifyUrl": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1",
+      "note": "Dulcimer-led accompaniment, exposed vocals, unusual harmony, and intensely intimate phrasing.",
+      "index": 0
+    },
+    {
+      "id": "4jiM2fAXVOxl4DAx3wraFx",
+      "title": "Suzanne",
+      "artist": "Leonard Cohen",
+      "album": "Songs Of Leonard Cohen",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02456d608be39a97751dd39e2d",
+      "spotifyUrl": "https://open.spotify.com/track/4jiM2fAXVOxl4DAx3wraFx",
+      "note": "Fingerpicked acoustic guitar, restrained ornamentation, low conversational vocals, and spare arrangement.",
+      "index": 1
+    }
+  ],
+  "classical": [
+    {
+      "id": "2fC30Rt5tFa6FA2jNb4fiz",
+      "title": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+      "artist": "Wolfgang Amadeus Mozart, Riccardo Minasi, Ensemble Resonanz",
+      "album": "Mozart: Symphonies Nos. 39, 40 & 41 \"Jupiter\"",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ac293cb72ac1d3261c4553ad",
+      "spotifyUrl": "https://open.spotify.com/track/2fC30Rt5tFa6FA2jNb4fiz",
+      "note": "Balanced orchestration, clear thematic phrases, driving strings, and tightly controlled tonal harmony.",
+      "index": 0
+    },
+    {
+      "id": "02EjNQRJohFLY4NaXiFdH1",
+      "title": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "artist": "Ludwig van Beethoven, Wiener Philharmoniker, Carlos Kleiber",
+      "album": "Beethoven: Symphonies Nos. 5 & 7",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b5e85f1b348e554336c44d49",
+      "spotifyUrl": "https://open.spotify.com/track/02EjNQRJohFLY4NaXiFdH1",
+      "note": "Motif-driven orchestration, strong tonal tension, dynamic contrasts, and tightly structured development.",
+      "index": 1
+    }
+  ],
+  "baroque": [
+    {
+      "id": "4tXktBBrKGTebkYjvzFA3i",
+      "title": "Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]",
+      "artist": "Johann Sebastian Bach, Trevor Pinnock, European Brandenburg Ensemble",
+      "album": "Bach: Six Concertos for the Margrave of Brandenburg",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e024747d8d612db02dd7791a699",
+      "spotifyUrl": "https://open.spotify.com/track/4tXktBBrKGTebkYjvzFA3i",
+      "note": "Interlocking contrapuntal strings, continuo-driven pulse, sequences, and dense rhythmic momentum. Note: Spotify matched this to Johann Sebastian Bach, Trevor Pinnock, European Brandenburg Ensemble — Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "3RUBMVfbweULyfoVMXTOLV",
+      "title": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "artist": "Antonio Vivaldi, Itzhak Perlman, Israel Philharmonic Orchestra",
+      "album": "Vivaldi: The Four Seasons",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c7464f9c451674bc683cb47f",
+      "spotifyUrl": "https://open.spotify.com/track/3RUBMVfbweULyfoVMXTOLV",
+      "note": "Bright solo violin, ritornello contrasts, continuo, rapid ornamentation, and vivid string gestures. Note: Spotify matched this to Antonio Vivaldi, Itzhak Perlman, Israel Philharmonic Orchestra — Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "chamber-music": [
+    {
+      "id": "0iiLTrQpc75IgSaaCDhu17",
+      "title": "Schubert: String Quartet No. 14 in D Minor, D. 810, \"Death and the Maiden\": II. Andante con moto. Theme",
+      "artist": "Franz Schubert, Quatuor Arod",
+      "album": "Death and the Maiden",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02279d5dfdc6f1944210d1020b",
+      "spotifyUrl": "https://open.spotify.com/track/0iiLTrQpc75IgSaaCDhu17",
+      "note": "Four conversational strings, variation form, intimate dynamics, and dramatic harmonic shading. Note: Spotify matched this to Franz Schubert, Quatuor Arod — Schubert: String Quartet No. 14 in D Minor, D. 810, \"Death and the Maiden\": II. Andante con moto. Theme; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "4lxk1OkzOHXzsgzwhVf40R",
+      "title": "Clarinet Quintet in A Major, K. 581: I. Allegro",
+      "artist": "Wolfgang Amadeus Mozart, Arcanto Quartett, Jörg Widmann",
+      "album": "Mozart: Clarinet Quintet; String Quartet No. 15",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b2548797c771853d22042f2a",
+      "spotifyUrl": "https://open.spotify.com/track/4lxk1OkzOHXzsgzwhVf40R",
+      "note": "Transparent string interplay, lyrical clarinet lines, balanced textures, and intimate ensemble dialogue.",
+      "index": 1
+    }
+  ],
+  "impressionism": [
+    {
+      "id": "7eL6tWkbOpqDY9Cw7eugsO",
+      "title": "Nocturnes, CD 98: I. Nuages",
+      "artist": "Claude Debussy, Berliner Philharmoniker, Claudio Abbado",
+      "album": "Debussy: Prélude à l'aprés-midi d'un faune; Trois Nocturnes; Pelléas et Mélisande Suite",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a8c0badd2b044c98b103ef10",
+      "spotifyUrl": "https://open.spotify.com/track/7eL6tWkbOpqDY9Cw7eugsO",
+      "note": "Floating orchestral colors, unresolved harmony, muted dynamics, and hazy, slow-changing textures. Note: Spotify matched this to Claude Debussy, Berliner Philharmoniker, Claudio Abbado — Nocturnes, CD 98: I. Nuages; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "0Gef573AJfARbMuQSoCy2r",
+      "title": "Jeux D'Eau",
+      "artist": "Maurice Ravel, André Laplante",
+      "album": "Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023041581d8dc408915d909e32",
+      "spotifyUrl": "https://open.spotify.com/track/0Gef573AJfARbMuQSoCy2r",
+      "note": "Shimmering arpeggios, extended harmony, fluid rhythms, and sparkling pianistic color.",
+      "index": 1
+    }
+  ],
+  "minimalism": [
+    {
+      "id": "59zHS0hv1wPZXlSXt066g0",
+      "title": "In C",
+      "artist": "Terry Riley, Bang On A Can All-Stars",
+      "album": "In C",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022a4cbf1daa9f0ba2a4dadf01",
+      "spotifyUrl": "https://open.spotify.com/track/59zHS0hv1wPZXlSXt066g0",
+      "note": "Layered repeating cells, steady pulse, tonal stasis, and gradually shifting ensemble patterns.",
+      "index": 0
+    },
+    {
+      "id": "1LWabh9wqLITaRpYe82PoD",
+      "title": "Music for 18 Musicians: Section I",
+      "artist": "Steve Reich",
+      "album": "Music for 18 Musicians",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b006c8c2be37c63d9549aa00",
+      "spotifyUrl": "https://open.spotify.com/track/1LWabh9wqLITaRpYe82PoD",
+      "note": "Interlocking pulses, repeating figures, slow harmonic cycles, and bright mallet-heavy textures. Note: Spotify matched this to Steve Reich — Music for 18 Musicians: Section I; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "modern-classical": [
+    {
+      "id": "4odlTAKrvaQ4UUJqatxAHt",
+      "title": "The Rite of Spring, K15, Pt. 1: II. The Augurs of Spring",
+      "artist": "Igor Stravinsky, Berliner Philharmoniker, Herbert von Karajan",
+      "album": "Stravinsky: The Rite of Spring / Bartók: Concerto for Orchestra",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f0eb5b09e87f24415266d723",
+      "spotifyUrl": "https://open.spotify.com/track/4odlTAKrvaQ4UUJqatxAHt",
+      "note": "Pounding irregular accents, harsh dissonance, ostinati, and aggressively colorful orchestration. Note: Spotify matched this to Igor Stravinsky, Berliner Philharmoniker, Herbert von Karajan — The Rite of Spring, K15, Pt. 1: II. The Augurs of Spring; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "7hy6QsqmiPuMx2YhM1LnXo",
+      "title": "Atmospheres",
+      "artist": "György Ligeti",
+      "album": "A Young Person's Guide to the Avant-Garde",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02285e32858c70da4418d03b77",
+      "spotifyUrl": "https://open.spotify.com/track/7hy6QsqmiPuMx2YhM1LnXo",
+      "note": "Dense orchestral clusters, micropolyphony, blurred pitch, and slowly morphing masses of sound.",
+      "index": 1
+    }
+  ],
+  "romanticism": [
+    {
+      "id": "1VNvsvEsUpuUCbHpVop1vo",
+      "title": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+      "artist": "Frédéric Chopin, Daniel Barenboim",
+      "album": "Chopin: Nocturnes",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0255c82855070525581e2c6fee",
+      "spotifyUrl": "https://open.spotify.com/track/1VNvsvEsUpuUCbHpVop1vo",
+      "note": "Lyrical ornamented melody, flexible rubato, rich chromatic harmony, and intimate piano expression. Note: Spotify matched this to Frédéric Chopin, Daniel Barenboim — Nocturne No. 2 in E-Flat Major, Op. 9 No. 2; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "1NdVM14AwqSaqk3XXryimh",
+      "title": "Romeo and Juliet - Love Theme - Instrumental",
+      "artist": "Pyotr Ilyich Tchaikovsky, Philadelphia Orchestra, Eugene Ormandy",
+      "album": "GREATEST HITS THE CLASSICAL JUKE BOX, VOL. I",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c7f0b6abc8a9aff0e8ec0ce2",
+      "spotifyUrl": "https://open.spotify.com/track/1NdVM14AwqSaqk3XXryimh",
+      "note": "Sweeping melody, surging dynamics, lush orchestration, and intensely emotional harmonic resolution. Note: Spotify matched this to Pyotr Ilyich Tchaikovsky, Philadelphia Orchestra, Eugene Ormandy — Romeo and Juliet - Love Theme - Instrumental; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "afrobeat": [
+    {
+      "id": "4YZv78tF4qCI841KHRF3vf",
+      "title": "Water No Get Enemy",
+      "artist": "Fela Kuti",
+      "album": "The Best of The Black President",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02aa11d0ad6e00ce0f055e7360",
+      "spotifyUrl": "https://open.spotify.com/track/4YZv78tF4qCI841KHRF3vf",
+      "note": "Layered percussion, horns, and bass sustain an extended groove.",
+      "index": 0
+    },
+    {
+      "id": "01mET4I8WOdaeYtwMpIYga",
+      "title": "Afro Disco Beat",
+      "artist": "The Motet, Tony Allen",
+      "album": "Instrumental Dissent",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02cfef8c8254acda85d7bdba7d",
+      "spotifyUrl": "https://open.spotify.com/track/01mET4I8WOdaeYtwMpIYga",
+      "note": "Interlocking drum patterns connect Afrobeat and funk.",
+      "index": 1
+    }
+  ],
+  "cumbia": [
+    {
+      "id": "5bgrkW1n1QqBOW4p6vOSEc",
+      "title": "La Pollera Colorá",
+      "artist": "Pedro Salcedo Y Su Orquesta",
+      "album": "Greatest Cumbia Classics Of Colombia, Vol. 1",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ffbb48b648d75cca9f3b74f0",
+      "spotifyUrl": "https://open.spotify.com/track/5bgrkW1n1QqBOW4p6vOSEc",
+      "note": "Bouncing cumbia pulse, prominent clarinet, syncopated percussion, brass, and festive call-and-response vocals. Note: Spotify matched this to Pedro Salcedo Y Su Orquesta — La Pollera Colorá; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "3RkeGAFYCie97LDucKBhTW",
+      "title": "Cumbia cienaguera",
+      "artist": "Crescensio Salcedo, Grupo Merecumbe",
+      "album": "Grupo Merecumbe: Merengue and Cumbia",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02834b61540a9da5c3298fe8cd",
+      "spotifyUrl": "https://open.spotify.com/track/3RkeGAFYCie97LDucKBhTW",
+      "note": "Rolling cumbia percussion, buoyant melodic lines, repetitive dance groove, and Caribbean Colombian swing. Note: The spreadsheet supplied the song without an artist; this Spotify-listed Crescensio Salcedo/Grupo Merecumbe recording is a direct Cumbia Cienaguera match.",
+      "index": 1
+    }
+  ],
+  "flamenco": [
+    {
+      "id": "0TISd2ZzZgOtDcSIlS3EED",
+      "title": "Al Verte Las Flores Lloran - Bulerías",
+      "artist": "Camaron De La Isla, Paco de Lucía",
+      "album": "Al Verte Las Flores Lloran (Remastered 2018)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a746ec5cd76bbecae6d6487f",
+      "spotifyUrl": "https://open.spotify.com/track/0TISd2ZzZgOtDcSIlS3EED",
+      "note": "Raw melismatic cante, sharply accented guitar, palmas-like rhythmic tension, and driving bulerías compás. Note: Spotify matched this to Camaron De La Isla, Paco de Lucía — Al Verte Las Flores Lloran - Bulerías; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "6zrnUGgYFPpSRMWr30QTat",
+      "title": "Almoraima",
+      "artist": "Paco de Lucía",
+      "album": "Almoraima",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e025802d2e1394cf0fedc6106dd",
+      "spotifyUrl": "https://open.spotify.com/track/6zrnUGgYFPpSRMWr30QTat",
+      "note": "Rapid flamenco guitar, intricate bulerías rhythm, percussive attack, and Moorish-inflected melody.",
+      "index": 1
+    }
+  ],
+  "highlife": [
+    {
+      "id": "6ubpGjaiU5aNxpP9rFnQ0H",
+      "title": "205",
+      "artist": "E.T. Mensah, The Tempos",
+      "album": "Day By Day, Classic Highlife Of The 1950s And 1960s",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e025be3cac5f2da02ab29867451",
+      "spotifyUrl": "https://open.spotify.com/track/6ubpGjaiU5aNxpP9rFnQ0H",
+      "note": "Swinging bass, buoyant horns, Caribbean-jazz rhythm, and relaxed Ghanaian dance-band vocals.",
+      "index": 0
+    },
+    {
+      "id": "2EdcEOJf2V8xMOTO7q2gCN",
+      "title": "Love and Death",
+      "artist": "Ebo Taylor",
+      "album": "Love & Death",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02644a2026e6721e7ff3efcb27",
+      "spotifyUrl": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN",
+      "note": "Interlocking highlife guitars, cyclical percussion, brass vamps, and a heavy jazz-funk groove.",
+      "index": 1
+    }
+  ],
+  "mpb": [
+    {
+      "id": "3FIuBxOxuQ6kYy8JO0gq2a",
+      "title": "Construção",
+      "artist": "Chico Buarque",
+      "album": "Construção",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f061d4beecf1d3ebb2c2bb97",
+      "spotifyUrl": "https://open.spotify.com/track/3FIuBxOxuQ6kYy8JO0gq2a",
+      "note": "Post-samba percussion, dramatic orchestration, chromatic harmony, and restrained Brazilian tenor vocals.",
+      "index": 0
+    },
+    {
+      "id": "4YwIblyn5m2XAJ7ljh5d79",
+      "title": "Tudo O Que Você Podia Ser",
+      "artist": "Milton Nascimento",
+      "album": "Clube Da Esquina",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0236ebd83756dae33f2504dc40",
+      "spotifyUrl": "https://open.spotify.com/track/4YwIblyn5m2XAJ7ljh5d79",
+      "note": "Acoustic Brazilian rhythm, airy harmonies, folk-rock textures, and richly melodic ensemble vocals. Note: Spotify matched this to Milton Nascimento — Tudo O Que Você Podia Ser; the exact requested recording was not available in the search result.",
+      "index": 1
+    }
+  ],
+  "reggae": [
+    {
+      "id": "5M77yXWuKPqaUzdxn4cVnV",
+      "title": "Concrete Jungle",
+      "artist": "Bob Marley & The Wailers",
+      "album": "Catch A Fire",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0287ef6dae7545173089c68f34",
+      "spotifyUrl": "https://open.spotify.com/track/5M77yXWuKPqaUzdxn4cVnV",
+      "note": "Offbeat accents and deep bass support urgent songwriting.",
+      "index": 0
+    },
+    {
+      "id": "30ELPvO4DH57Rq2kgj7a8e",
+      "title": "Marcus Garvey",
+      "artist": "Burning Spear",
+      "album": "Marcus Garvey",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0200b80c40d25750a320d21263",
+      "spotifyUrl": "https://open.spotify.com/track/30ELPvO4DH57Rq2kgj7a8e",
+      "note": "Repetition and roots rhythm carry historical consciousness.",
+      "index": 1
+    }
+  ],
+  "salsa": [
+    {
+      "id": "4rPtnAmfvHkVSCO2KKkiC1",
+      "title": "Ché Ché Colé",
+      "artist": "Willie Colón, Héctor Lavoe",
+      "album": "Crime Pays",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02ebf2028acd755c32ce14c73f",
+      "spotifyUrl": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1",
+      "note": "Clave, horns, and call-and-response create dense dance momentum.",
+      "index": 0
+    },
+    {
+      "id": "5Uve0jm1RgxKWzdSvncBDO",
+      "title": "El Cantante",
+      "artist": "Héctor Lavoe",
+      "album": "Comedia",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e024a8c66809d9bb7b8e1806099",
+      "spotifyUrl": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO",
+      "note": "A commanding sonero vocal rides a dramatic salsa arrangement.",
+      "index": 1
+    }
+  ],
+  "samba": [
+    {
+      "id": "0uEVdsaRVRcjKIkGn7Wu4e",
+      "title": "Foi Um Rio Que Passou Em Minha Vida",
+      "artist": "Paulinho Da Viola",
+      "album": "Meus Momentos: Paulinho Da Viola",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e025a2cde827c855b47435154fe",
+      "spotifyUrl": "https://open.spotify.com/track/0uEVdsaRVRcjKIkGn7Wu4e",
+      "note": "Cavaquinho-led acoustic groove, syncopated percussion, flowing melody, and relaxed samba swing.",
+      "index": 0
+    },
+    {
+      "id": "0MMe6HyOCDo6GYBZZCwkyt",
+      "title": "As Rosas Não Falam",
+      "artist": "Cartola",
+      "album": "Raizes Do Samba",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e48335343c65b1535919788b",
+      "spotifyUrl": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt",
+      "note": "Gentle samba pulse, acoustic strings, understated percussion, and warm, aching vocal phrasing.",
+      "index": 1
+    }
+  ],
+  "j-pop": [
+    {
+      "id": "39HrUxcvKF3jtLz7fUDWXc",
+      "title": "First Love",
+      "artist": "Hikaru Utada",
+      "album": "First Love",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e024fa36b14a276fe560940baa0",
+      "spotifyUrl": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc",
+      "note": "R&B-inflected songwriting and an expansive chorus show J-pop's polished melodic range.",
+      "index": 0
+    },
+    {
+      "id": "0E5TZgeNbdxoR7YwZG9PTO",
+      "title": "ポリリズム",
+      "artist": "Perfume",
+      "album": "GAME",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027aa30221d9dbc1271bae1b05",
+      "spotifyUrl": "https://open.spotify.com/track/0E5TZgeNbdxoR7YwZG9PTO",
+      "note": "Intricate electronic rhythm, processed vocals, and bright hooks represent J-pop's technopop side.",
+      "index": 1
+    }
+  ],
+  "k-pop": [
+    {
+      "id": "2BQIMF7CyLe2xAKzh74A4C",
+      "title": "Gee",
+      "artist": "Girls' Generation",
+      "album": "Gee - The First Mini Album",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02aa7646e7aa8a4e001cb8a805",
+      "spotifyUrl": "https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C",
+      "note": "Rapid hooks, bright synths, and tightly coordinated group vocals define a foundational idol-pop sound.",
+      "index": 0
+    },
+    {
+      "id": "2j1fFjWHCI9KJSwcuYAOyF",
+      "title": "Spring Day",
+      "artist": "BTS",
+      "album": "You Never Walk Alone",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021fd0a8fc28b2a0a5d9cdc6c6",
+      "spotifyUrl": "https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF",
+      "note": "Melodic pop-rock production supports emotive group singing and rap within a polished idol framework.",
+      "index": 1
+    }
+  ],
+  "opm": [
+    {
+      "id": "61vyXXtY7OSYFRtSzv5ehw",
+      "title": "Mundo",
+      "artist": "IV OF SPADES",
+      "album": "Mundo",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e021aaed2d9bea791b5488e08a2",
+      "spotifyUrl": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw",
+      "note": "Tagalog songwriting, melodic bass, and polished band interplay represent modern Filipino pop-rock.",
+      "index": 0
+    },
+    {
+      "id": "4cBm8rv2B5BJWU2pDaHVbF",
+      "title": "Multo",
+      "artist": "Cup of Joe",
+      "album": "Multo",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02394048503e3be0e65e962638",
+      "spotifyUrl": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF",
+      "note": "An emotive Filipino pop ballad built around direct vocals and a sweeping contemporary arrangement.",
+      "index": 1
+    }
+  ],
+  "gangsta-rap": [
+    {
+      "id": "6KIKRz9eSTXdNsGUnomdtW",
+      "title": "Straight Outta Compton",
+      "artist": "N.W.A.",
+      "album": "Straight Outta Compton",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c79a70e8167cc1a4fab83781",
+      "spotifyUrl": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW",
+      "note": "Aggressive group delivery and stark neighborhood reporting define foundational West Coast gangsta rap.",
+      "index": 0
+    },
+    {
+      "id": "5g9lS8deSIxItFBmZRC4vN",
+      "title": "Ambitionz Az A Ridah",
+      "artist": "2Pac",
+      "album": "All Eyez On Me",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02073aebff28f79959d2543596",
+      "spotifyUrl": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "note": "Menacing piano, heavy drums, and defiant first-person storytelling create cinematic street rap.",
+      "index": 1
+    }
+  ],
+  "indietronica": [
+    {
+      "id": "75z2YLg5Lkqf6qL9XOY8tV",
+      "title": "Such Great Heights",
+      "artist": "The Postal Service",
+      "album": "Give Up",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02df6e579914fc309b0e0bd745",
+      "spotifyUrl": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV",
+      "note": "Indie songwriting sits inside bright programmed rhythms and delicately layered electronics.",
+      "index": 0
+    },
+    {
+      "id": "0X9wubEYVnWE6S4p03ezrx",
+      "title": "Animal",
+      "artist": "Miike Snow",
+      "album": "Miike Snow (Deluxe Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0230762aababd02552f7287fbd",
+      "spotifyUrl": "https://open.spotify.com/track/0X9wubEYVnWE6S4p03ezrx",
+      "note": "A compact indie-pop melody is reshaped through synthesizers, samples, and crisp electronic rhythm.",
+      "index": 1
+    }
+  ],
+  "dancehall": [
+    {
+      "id": "6bK9BH9Ts8Gj5JFvnQkzak",
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "album": "Dutty Rock (20th Anniversary)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b85a43ff52cecb0ab0a49677",
+      "spotifyUrl": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak",
+      "note": "Rapid deejay vocals ride a sparse, syncopated riddim designed for the dancefloor.",
+      "index": 0
+    },
+    {
+      "id": "1p2ea5Dy0tOnt9q4wfy4aX",
+      "title": "Bam Bam",
+      "artist": "Sister Nancy",
+      "album": "One Two",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b9912837ccb3d87d9158bb1f",
+      "spotifyUrl": "https://open.spotify.com/track/1p2ea5Dy0tOnt9q4wfy4aX",
+      "note": "A commanding vocal performance over a durable reggae riddim captures early dancehall's economy and force.",
+      "index": 1
+    }
+  ],
+  "eurodance": [
+    {
+      "id": "7JkZ2hQdDonRURJjlMuh8q",
+      "title": "What Is Love - 7\" Mix",
+      "artist": "Haddaway",
+      "album": "What Is Love",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0238b92df39be851a091a886de",
+      "spotifyUrl": "https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q",
+      "note": "A dramatic vocal hook, bright synth riff, and relentless club pulse embody classic Eurodance.",
+      "index": 0
+    },
+    {
+      "id": "7FoUzKTSQp25oe32pY9z5p",
+      "title": "Be My Lover",
+      "artist": "La Bouche",
+      "album": "Sweet Dreams",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d9f98206dc1513d8de71f6ee",
+      "spotifyUrl": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p",
+      "note": "Powerful sung hooks alternate with rap over glossy, high-energy European dance production.",
+      "index": 1
+    }
+  ],
+  "east-coast-hip-hop": [
+    {
+      "id": "00JErUuTZnBA8eugXCWGuB",
+      "title": "Protect Ya Neck (The Jump Off) (feat. Inspectah Deck, Raekwon, Method Man, Masta Killa, RZA, Ghostface Killah, U-God, Cappadonna & GZA)",
+      "artist": "Wu-Tang Clan, Inspectah Deck, Raekwon, Method Man, Masta Killa, RZA, Ghostface Killah, U-God, Cappadonna, GZA",
+      "album": "The W",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02c9ca9a87fdd48578fc0144ec",
+      "spotifyUrl": "https://open.spotify.com/track/00JErUuTZnBA8eugXCWGuB",
+      "note": "A foundational New York posse cut with the raw, sample-heavy attack associated with East Coast rap.",
+      "index": 0
+    },
+    {
+      "id": "0IVAlb0cFCH1cQ974iR1TU",
+      "title": "Ms. Fat Booty",
+      "artist": "Mos Def",
+      "album": "Black On Both Sides",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0289b56f56323925d57b38944d",
+      "spotifyUrl": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
+      "note": "A durable New York underground classic that represents the scene's jazz-inflected lyricism.",
+      "index": 1
+    }
+  ],
+  "west-coast-hip-hop": [
+    {
+      "id": "0bwgpGqkx6NKdMOZfZ4F9R",
+      "title": "Nuthin' But a 'G' Thang",
+      "artist": "Dr. Dre, Snoop Dogg",
+      "album": "The Chronic",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2733839dfdc190196e184057c12",
+      "spotifyUrl": "https://open.spotify.com/track/0bwgpGqkx6NKdMOZfZ4F9R",
+      "note": "A canonical G-funk recording repeatedly identified with the West Coast sound.",
+      "index": 0
+    },
+    {
+      "id": "2eU63GLRBeMOszGRTCEE9E",
+      "title": "California Love",
+      "artist": "2Pac, Roger Troutman, Dr. Dre",
+      "album": "All Eyez on Me",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2733b5e11ca1b063583df9492db",
+      "spotifyUrl": "https://open.spotify.com/track/2eU63GLRBeMOszGRTCEE9E",
+      "note": "A widely recognized West Coast anthem with California setting, G-funk production, and regional identity.",
+      "index": 1
+    }
+  ],
+  "instrumental-hip-hop": [
+    {
+      "id": "0Q1nTiEPnoQSqM0qrY9TMY",
+      "title": "Still Talking to You",
+      "artist": "Nujabes",
+      "album": "FIRST COLLECTION",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e022b9ac699ab7cdc138d65e73f",
+      "spotifyUrl": "https://open.spotify.com/track/0Q1nTiEPnoQSqM0qrY9TMY",
+      "note": "Nujabes' warm, sample-led beatmaking is one of the clearest entry points into instrumental hip-hop.",
+      "index": 0
+    },
+    {
+      "id": "0uLd31lmkKv0hYPg3Tnk1c",
+      "title": "world without words",
+      "artist": "Nujabes",
+      "album": "samurai champloo music record impression",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02878ed741b8e1342d58a332ca",
+      "spotifyUrl": "https://open.spotify.com/track/0uLd31lmkKv0hYPg3Tnk1c",
+      "note": "A melodic Nujabes instrumental that shows the genre's balance of dusty drums, jazz harmony, and atmosphere.",
+      "index": 1
+    }
+  ],
+  "pop-rap": [
+    {
+      "id": "2dxjKgT0li4qBI3QwuN9Ih",
+      "title": "Touch The Sky",
+      "artist": "Kanye West, Lupe Fiasco",
+      "album": "Late Registration",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02428d2255141c2119409a31b2",
+      "spotifyUrl": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih",
+      "note": "A huge melodic hook and polished crossover production make this a clear pop-rap reference.",
+      "index": 0
+    },
+    {
+      "id": "0LzrhCZFXW94Y8nwtTuRlw",
+      "title": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "album": "Love. Angel. Music. Baby. (Deluxe Version)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e027c7136a182372ccdffb3d3c4",
+      "spotifyUrl": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw",
+      "note": "A hook-first pop record with rap-adjacent cadence and an unmistakable mainstream crossover design.",
+      "index": 1
+    }
+  ],
+  "japanese-hip-hop": [
+    {
+      "id": "3GoKVu4XCvNbWg51XuGxX0",
+      "title": "Hachi To Chou (2024 Remix)",
+      "artist": "SOUL SCREAM",
+      "album": "Hachi To Chou (2024 Remix)",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b27308042f321a0aae9caa5dff04",
+      "spotifyUrl": "https://open.spotify.com/track/3GoKVu4XCvNbWg51XuGxX0",
+      "note": "A scene-rooted SOUL SCREAM classic repeatedly singled out as an essential Japanese rap touchstone.",
+      "index": 0
+    },
+    {
+      "id": "1VLdR9j5zUYDpmY7Bdl3YD",
+      "title": "Luv(sic) pt3",
+      "artist": "Nujabes, Shing02",
+      "album": "Modal Soul",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273f24754fceecc832b577c81a6",
+      "spotifyUrl": "https://open.spotify.com/track/1VLdR9j5zUYDpmY7Bdl3YD",
+      "note": "A globally recognized Japanese hip-hop/jazz-rap touchstone, chosen for its influence rather than library presence.",
+      "index": 1
+    }
+  ],
+  "disco": [
+    {
+      "id": "7CuPbY77ujwIQQyvPoSxFl",
+      "title": "Good Times",
+      "artist": "CHIC",
+      "album": "C'est Chic (2018 Remaster)",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2730f2791cfd631919b4cc63cf5",
+      "spotifyUrl": "https://open.spotify.com/track/7CuPbY77ujwIQQyvPoSxFl",
+      "note": "The Chic bass line and string-driven groove are among disco's most recognizable foundations.",
+      "index": 0
+    },
+    {
+      "id": "7awlAiVkw1csNaUZjab1n4",
+      "title": "I Feel Love",
+      "artist": "Donna Summer",
+      "album": "I Remember Yesterday",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2736f45a26c197e81318f2814f5",
+      "spotifyUrl": "https://open.spotify.com/track/7awlAiVkw1csNaUZjab1n4",
+      "note": "A landmark electronic-disco recording that shows the genre's futuristic, machine-driven side.",
+      "index": 1
+    }
+  ],
+  "pop-rock": [
+    {
+      "id": "7cx6hiNiJIcSNfFZYW5fsQ",
+      "title": "Don't Stop Me Now",
+      "artist": "Queen",
+      "album": "Jazz",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273b9e79d4ec080d1e6d8cc6341",
+      "spotifyUrl": "https://open.spotify.com/track/7cx6hiNiJIcSNfFZYW5fsQ",
+      "note": "A durable, chorus-forward rock song whose accessibility and band attack make it a pop-rock touchstone.",
+      "index": 0
+    },
+    {
+      "id": "2rZBJFnAnQWXO7JQiAIz3i",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "album": "Hot Fuss",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273a1ad2069cc3aa7384b707c04",
+      "spotifyUrl": "https://open.spotify.com/track/2rZBJFnAnQWXO7JQiAIz3i",
+      "note": "A defining 2000s guitar-pop crossover with an enormous singalong chorus.",
+      "index": 1
+    }
+  ],
+  "k-ballad": [
+    {
+      "id": "3P3UA61WRQqwCXaoFOTENd",
+      "title": "Through the Night",
+      "artist": "IU",
+      "album": "Palette",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273c06f0e8b33ac2d246158253e",
+      "spotifyUrl": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd",
+      "note": "A widely recognized modern K-ballad whose restrained vocal and intimate arrangement are central to the style.",
+      "index": 0
+    },
+    {
+      "id": "2BPXILn0MqOe5WroVXlvN1",
+      "title": "I Will Go to You Like the First Snow",
+      "artist": "AILEE",
+      "album": "Guardian (Original Television Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273462fe3cc2bb66d480dee263a",
+      "spotifyUrl": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1",
+      "note": "A major Korean drama-ballad touchstone, selected for broad cultural recognition and genre fit.",
+      "index": 1
+    }
+  ],
+  "anime-song": [
+    {
+      "id": "3x4378ztiLvFmm2nuzEI0C",
+      "title": "The Cruel Angel's Thesis (Director's Edit Version)",
+      "artist": "高橋　洋子",
+      "album": "NEON GENESIS EVANGELION (Original Series Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02564b9a0c99103bf3c5e054f7",
+      "spotifyUrl": "https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C",
+      "note": "An iconic anime opening and one of the most widely recognized songs in the anime-music canon.",
+      "index": 0
+    },
+    {
+      "id": "2BlDX1yfT0ea5wo0vjCKKa",
+      "title": "光るなら",
+      "artist": "Goose house",
+      "album": "Milk",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e020735b9b1d06b65bbd8814825",
+      "spotifyUrl": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa",
+      "note": "A beloved anime opening that represents the melodic, emotionally direct side of anisong.",
+      "index": 1
+    }
+  ],
+  "bedroom-pop": [
+    {
+      "id": "0KyAGiNGUytG5JLxJu4F6l",
+      "title": "Pretty Girl",
+      "artist": "Clairo",
+      "album": "diary 001",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273efe812ae54f0698a32ccae14",
+      "spotifyUrl": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l",
+      "note": "A defining bedroom-pop breakthrough whose home-recorded intimacy helped establish the modern reference point.",
+      "index": 0
+    },
+    {
+      "id": "75IQVo8hqI1iwVZyvkN2VT",
+      "title": "Show Me How",
+      "artist": "Men I Trust",
+      "album": "Oncle Jazz",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273deeb617204bc14f4ee87b057",
+      "spotifyUrl": "https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT",
+      "note": "A frequently surfaced bedroom/chill touchstone with close vocals and understated, DIY-adjacent production.",
+      "index": 1
+    }
+  ],
+  "big-band": [
+    {
+      "id": "61znp1Iy11bdJ2YAbwaqw7",
+      "title": "Sing, Sing, Sing",
+      "artist": "Benny Goodman",
+      "album": "The Essential Benny Goodman",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2736bd39cebfa860967add88d51",
+      "spotifyUrl": "https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7",
+      "note": "A standard big-band reference for its famous drum feature, riff-based arrangement, and large-ensemble swing.",
+      "index": 0
+    },
+    {
+      "id": "3vE31QWfAQ3i9x1BjAVXqW",
+      "title": "In the Mood",
+      "artist": "Glenn Miller",
+      "album": "The Essential Glenn Miller",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2735c389a560d5e155618409b2a",
+      "spotifyUrl": "https://open.spotify.com/track/3vE31QWfAQ3i9x1BjAVXqW",
+      "note": "One of the most broadly recognized big-band recordings and a staple of swing-era listening.",
+      "index": 1
+    }
+  ],
+  "video-game-music": [
+    {
+      "id": "4NsPgRYUdHu2Q5JRNgXYU5",
+      "title": "Sweden",
+      "artist": "C418",
+      "album": "Minecraft - Volume Alpha",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02aaeb5c9fb6131977995b7f0e",
+      "spotifyUrl": "https://open.spotify.com/track/4NsPgRYUdHu2Q5JRNgXYU5",
+      "note": "A modern game-music touchstone whose spacious piano writing has become inseparable from Minecraft's world.",
+      "index": 0
+    },
+    {
+      "id": "2OSFhiIBYXIBiVOyLnDQ2b",
+      "title": "Doki Doki Literature Club!",
+      "artist": "Dan Salvato",
+      "album": "Doki Doki Literature Club! (Original Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e023925fdf9a87edf2350632d60",
+      "spotifyUrl": "https://open.spotify.com/track/2OSFhiIBYXIBiVOyLnDQ2b",
+      "note": "A memorable game theme that demonstrates how video-game music can function as character, atmosphere, and song.",
+      "index": 1
+    }
+  ],
+  "city-pop": [
+    {
+      "id": "7rU6Iebxzlvqy5t857bKFq",
+      "title": "Plastic Love",
+      "artist": "Mariya Takeuchi",
+      "album": "Variety",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273ba6b3322182afc4136521d2c",
+      "spotifyUrl": "https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq",
+      "note": "One of the clearest international entry points to city pop's polished, nocturnal sophistication.",
+      "index": 0
+    },
+    {
+      "id": "5ULmKQMAwbdVxHNvDtsUzm",
+      "title": "BOHEMIAN",
+      "artist": "Taeko Onuki",
+      "album": "ROMANTIQUE (Mastered by Bernie Grundman)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e4a23e9ffe21c2e50afaff6e",
+      "spotifyUrl": "https://open.spotify.com/track/5ULmKQMAwbdVxHNvDtsUzm",
+      "note": "Taeko Onuki's elegant songwriting and studio palette represent the genre's sophisticated Japanese pop lineage.",
+      "index": 1
+    }
+  ],
+  "hyperpop": [
+    {
+      "id": "3egwpvStqkUtXwVZDlKl01",
+      "title": "money machine",
+      "artist": "100 gecs",
+      "album": "1000 gecs",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273b5f6e27776ceab4333de590e",
+      "spotifyUrl": "https://open.spotify.com/track/3egwpvStqkUtXwVZDlKl01",
+      "note": "A scene-defining 100 gecs track frequently used as an entry point to hyperpop's maximalist digital sound.",
+      "index": 0
+    },
+    {
+      "id": "6GoLARmR2OZl2EldehFrsA",
+      "title": "Immaterial",
+      "artist": "SOPHIE",
+      "album": "OIL OF EVERY PEARL'S UN-INSIDES",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273fa3158c935aa3c01865f7150",
+      "spotifyUrl": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA",
+      "note": "SOPHIE's synthetic pop production is foundational context for the hyperpop lineage.",
+      "index": 1
+    }
+  ],
+  "bubblegum-pop": [
+    {
+      "id": "3M3SBRzq5mWfYPXZdOYPG4",
+      "title": "Sugar, Sugar",
+      "artist": "The Archies",
+      "album": "Everything's Archie",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b27331e6c601d7e05c3d69aaf1f0",
+      "spotifyUrl": "https://open.spotify.com/track/3M3SBRzq5mWfYPXZdOYPG4",
+      "note": "A representative bubblegum-pop single: instantly catchy, lightweight, and central to the late-1960s craze.",
+      "index": 0
+    },
+    {
+      "id": "1s1RcqY9wVBCiRtazOUqpi",
+      "title": "Yummy Yummy Yummy",
+      "artist": "Ohio Express",
+      "album": "Ohio Express",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273f8a1ce9dfd256ef9dae8aa92",
+      "spotifyUrl": "https://open.spotify.com/track/1s1RcqY9wVBCiRtazOUqpi",
+      "note": "A second Western bubblegum classic, chosen to avoid reducing the genre to one regional pop scene.",
+      "index": 1
+    }
+  ],
+  "digicore": [
+    {
+      "id": "2VNM40GnccbNGyzYIvVeRH",
+      "title": "astrid",
+      "artist": "glaive",
+      "album": "New Money",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273a8e5b9aa1838c6b5079b1fac",
+      "spotifyUrl": "https://open.spotify.com/track/2VNM40GnccbNGyzYIvVeRH",
+      "note": "A scene-associated glaive track representing digicore's compressed songwriting and internet-native vocal production.",
+      "index": 0
+    },
+    {
+      "id": "1yCZyiJlxQSt0DFB9mVTCS",
+      "title": "Trying",
+      "artist": "midwxst",
+      "album": "Trying",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273081f5f27778d223986f9cfc0",
+      "spotifyUrl": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS",
+      "note": "midwxst is regularly discussed as a central digicore-era voice; this is a research-based scene pick.",
+      "index": 1
+    }
+  ],
+  "swing": [
+    {
+      "id": "61znp1Iy11bdJ2YAbwaqw7",
+      "title": "Sing, Sing, Sing",
+      "artist": "Benny Goodman",
+      "album": "The Essential Benny Goodman",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2736bd39cebfa860967add88d51",
+      "spotifyUrl": "https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7",
+      "note": "A canonical swing-era recording with a driving big-band pulse and instantly recognizable arrangement.",
+      "index": 0
+    },
+    {
+      "id": "3vE31QWfAQ3i9x1BjAVXqW",
+      "title": "In the Mood",
+      "artist": "Glenn Miller",
+      "album": "The Essential Glenn Miller",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2735c389a560d5e155618409b2a",
+      "spotifyUrl": "https://open.spotify.com/track/3vE31QWfAQ3i9x1BjAVXqW",
+      "note": "A universally recognizable swing standard and a fair second reference for the genre.",
+      "index": 1
+    }
+  ],
+  "jazz-ballad": [
+    {
+      "id": "1cCyrkMFwJVGneDaZj4WPJ",
+      "title": "Misty",
+      "artist": "Ella Fitzgerald",
+      "album": "Clap Hands, Here Comes Charlie!",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2730bd655ddf45fa5d7adb75819",
+      "spotifyUrl": "https://open.spotify.com/track/1cCyrkMFwJVGneDaZj4WPJ",
+      "note": "A standard jazz-ballad choice, widely cited for its slow harmonic movement and intimate vocal phrasing.",
+      "index": 0
+    },
+    {
+      "id": "25ajcQN4gqQ8gLwB4zwS7a",
+      "title": "Naima",
+      "artist": "John Coltrane",
+      "album": "Giant Steps",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273e407464fb2e70ed95b9836ec",
+      "spotifyUrl": "https://open.spotify.com/track/25ajcQN4gqQ8gLwB4zwS7a",
+      "note": "A canonical instrumental ballad whose spacious melody represents the form's other major tradition.",
+      "index": 1
+    }
+  ],
+  "concert-band": [
+    {
+      "id": "0c2bpYevVT7qOK9aYSFKNN",
+      "title": "First Suite in E Flat: I. Chaconne",
+      "artist": "Gustav Holst, Cedar Park Middle School Symphonic Band, Britni Hummel",
+      "album": "2025 Mark of Excellence: National Band Honors Class AA",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02769a1f5cdf8487004a0f7004",
+      "spotifyUrl": "https://open.spotify.com/track/0c2bpYevVT7qOK9aYSFKNN",
+      "note": "Layered woodwinds and brass, recurring bass theme, contrapuntal writing, and resonant band sonority.",
+      "index": 0
+    },
+    {
+      "id": "5jWib67p88BAu0D6utVzjy",
+      "title": "Lincolnshire Posy: VI. The Lost Lady Found",
+      "artist": "Percy Grainger, Dallas Wind Symphony, Jerry Junkin",
+      "album": "Lincolnshire Posy",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0294187d8e20353ef7e60e050f",
+      "spotifyUrl": "https://open.spotify.com/track/5jWib67p88BAu0D6utVzjy",
+      "note": "Folk melody, brilliant woodwind colors, robust brass, irregular accents, and vivid percussion.",
+      "index": 1
+    }
+  ],
+  "soft-rock": [
+    {
+      "id": "2DgnRw7Fpocvj8iavjCvaf",
+      "title": "More Than a Feeling",
+      "artist": "Boston",
+      "album": "Boston",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273c4ca730bd5e6c18439e9f029",
+      "spotifyUrl": "https://open.spotify.com/track/2DgnRw7Fpocvj8iavjCvaf",
+      "note": "A durable soft-rock radio touchstone built around melodic guitar, polished production, and a large chorus.",
+      "index": 0
+    },
+    {
+      "id": "0ofHAoxe9vBkTCp2UQIavz",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "spotifyUrl": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+      "note": "A widely recognized softer rock classic whose restrained groove and vocal melody fit the category's core.",
+      "index": 1
+    }
+  ],
+  "teen-pop": [
+    {
+      "id": "7EFVJfuaqhIIvzNHZpEpth",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "album": "...Baby One More Time",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b2735028c2ac460025bffa43057e",
+      "spotifyUrl": "https://open.spotify.com/track/7EFVJfuaqhIIvzNHZpEpth",
+      "note": "A defining late-1990s teen-pop single and one of the clearest genre touchstones.",
+      "index": 0
+    },
+    {
+      "id": "5whWSsKs8TvXHAB8RUbxFY",
+      "title": "I Want It That Way",
+      "artist": "Backstreet Boys",
+      "album": "Millennium",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273ca743d98ebb621d8d70cad0c",
+      "spotifyUrl": "https://open.spotify.com/track/5whWSsKs8TvXHAB8RUbxFY",
+      "note": "A canonical boy-band teen-pop hit representing the genre's vocal-group and crossover-pop center.",
+      "index": 1
+    }
+  ],
+  "industrial-hip-hop": [
+    {
+      "id": "7y8X0Z04gJCKtfrnSAMywJ",
+      "title": "Hacker",
+      "artist": "Death Grips",
+      "album": "The Money Store",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02b4f8459b0f719f8a97ee1c8c",
+      "spotifyUrl": "https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ",
+      "note": "Distorted electronics, pounding percussion, shouted rap, and abrasive digital chaos.",
+      "index": 0
+    },
+    {
+      "id": "1bu7mFekVBPi4MGjIifpAM",
+      "title": "Spiritual Healing",
+      "artist": "dälek",
+      "album": "From Filthy Tongue of Gods and Griots",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e026e5c44898b6e74c9d4c0c4cd",
+      "spotifyUrl": "https://open.spotify.com/track/1bu7mFekVBPi4MGjIifpAM",
+      "note": "Dense noise, droning textures, heavy beats, and ominous abstract rapping.",
+      "index": 1
+    }
+  ],
+  "a-cappella": [
+    {
+      "id": "4NwVMYo8hc5ORX5Jj5ZLq0",
+      "title": "Daft Punk",
+      "artist": "Pentatonix",
+      "album": "Pentatonix",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273c9b9422de4feb07fe842f584",
+      "spotifyUrl": "https://open.spotify.com/track/4NwVMYo8hc5ORX5Jj5ZLq0",
+      "note": "A prominent modern a cappella showcase whose vocal arrangement became a major public reference for the form.",
+      "index": 0
+    },
+    {
+      "id": "50uSx890O0zPwJumbjBQkA",
+      "title": "The Longest Time",
+      "artist": "Billy Joel",
+      "album": "An Innocent Man",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273989c6744a8a0ae9358eb5be9",
+      "spotifyUrl": "https://open.spotify.com/track/50uSx890O0zPwJumbjBQkA",
+      "note": "A famous vocal-only pop arrangement that demonstrates the tradition beyond contemporary vocal groups.",
+      "index": 1
+    }
+  ],
+  "film-score": [
+    {
+      "id": "3ZSf1TJZyRb0rnWYuUtdX4",
+      "title": "Main Title",
+      "artist": "John Williams, London Symphony Orchestra",
+      "album": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02a9916ac15c83a9f0438216cf",
+      "spotifyUrl": "https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4",
+      "note": "Huge symphonic brass, sweeping strings, leitmotivic melody, and sharply dramatic orchestral dynamics. Note: Spotify matched this to John Williams, London Symphony Orchestra — Main Title; the exact requested recording was not available in the search result.",
+      "index": 0
+    },
+    {
+      "id": "2MzaSLi8iFWQQ7fBE3rvDe",
+      "title": "The Ecstasy of Gold",
+      "artist": "Ennio Morricone",
+      "album": "Metallica Through The Never (Music from the Motion Picture)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f1a501610a71d48c526c7ecd",
+      "spotifyUrl": "https://open.spotify.com/track/2MzaSLi8iFWQQ7fBE3rvDe",
+      "note": "Wordless soprano, galloping ostinato, swelling orchestra, and an enormous cinematic crescendo.",
+      "index": 1
+    }
+  ],
+  "jersey-club": [
+    {
+      "id": "2Dsi3qgmxA1bJZqmPNBRMr",
+      "title": "Left Right",
+      "artist": "DJ LILMAN",
+      "album": "The Best of DJ Lilman",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02277634010f2573c2b1e52dd8",
+      "spotifyUrl": "https://open.spotify.com/track/2Dsi3qgmxA1bJZqmPNBRMr",
+      "note": "Hard kicks, chopped vocals, rapid bounce, and the signature triplet rhythm. Note: The requested DJ Tameil recording was not exposed by Spotify search; this is a distinct DJ Lilman substitute from the same Jersey Club lineage, while the second card keeps Team Lilman Anthem.",
+      "index": 0
+    },
+    {
+      "id": "1EDyZylarxYWAJ2tucrSsW",
+      "title": "Team Lilman Anthem",
+      "artist": "DJ LILMAN",
+      "album": "Team Lilman Anthem",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e834127cf169156eadcfd46b",
+      "spotifyUrl": "https://open.spotify.com/track/1EDyZylarxYWAJ2tucrSsW",
+      "note": "Hyperfast kicks, chopped samples, and call-and-response dance commands.",
+      "index": 1
+    }
+  ],
+  "punjabi": [
+    {
+      "id": "42OYT1BLobBto3eIhLr5qp",
+      "title": "Dil Da Mamla Hai",
+      "artist": "Gurdas Maan",
+      "album": "Dil Da Mamla Hai",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273f4cbef9c88d6a97886a3c770",
+      "spotifyUrl": "https://open.spotify.com/track/42OYT1BLobBto3eIhLr5qp",
+      "note": "A foundational Gurdas Maan recording: a widely recognized Punjabi song rooted in the language, melodic phrasing, and cultural tradition of the region.",
+      "index": 0
+    },
+    {
+      "id": "04F3WxD0QdAecHjclEzFt2",
+      "title": "Bol Punjab De",
+      "artist": "Skillz Inc., Surinder Shinda",
+      "album": "Bol Punjab De",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b27327bf55025ff0f95e71b01edd",
+      "spotifyUrl": "https://open.spotify.com/track/04F3WxD0QdAecHjclEzFt2",
+      "note": "A Punjabi folk/pop touchstone connecting Surinder Shinda's traditional vocal lineage with a contemporary production frame.",
+      "index": 1
+    }
+  ],
+  "tv-score": [
+    {
+      "id": "0bSHwuTOZVJUXWT03H9oD2",
+      "title": "Succession (Main Title Theme)",
+      "artist": "Nicholas Britell",
+      "album": "Succession: Season 1 (HBO Original Series Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02e654bc3bc09b6c1e013f74a3",
+      "spotifyUrl": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2",
+      "note": "A defining modern television main-title theme built around a recurring, instantly identifiable motif.",
+      "index": 0
+    },
+    {
+      "id": "4PgQu8CWZAD6NSqd4mGDmE",
+      "title": "Succession (Main Title Theme) - Extended Intro Version",
+      "artist": "Nicholas Britell",
+      "album": "Succession: Season 2 (Music from the HBO Series)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02d95144d4409c0bc9967dcfd3",
+      "spotifyUrl": "https://open.spotify.com/track/4PgQu8CWZAD6NSqd4mGDmE",
+      "note": "An extended television-score variation showing how a series theme can be developed across seasons.",
+      "index": 1
+    }
+  ],
+  "musical": [
+    {
+      "id": "184HGdGIscUiPbDuqbvHuN",
+      "title": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "artist": "Stephen Schwartz, Kristin Chenoweth, Idina Menzel, Stephen Oremus",
+      "album": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e02f3eaae22e1c6b26400073c05",
+      "spotifyUrl": "https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN",
+      "note": "A canonical Broadway show tune whose character-driven vocal writing and theatrical orchestration make the musical form explicit.",
+      "index": 0
+    },
+    {
+      "id": "5QMrH5nszZZR3nefIj6Mar",
+      "title": "Defying Gravity",
+      "artist": "Cynthia Erivo, Ariana Grande",
+      "album": "Wicked: The Soundtrack",
+      "artwork": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+      "spotifyUrl": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar",
+      "note": "A major screen-musical performance with full cast-scale vocal drama and show-tune architecture.",
+      "index": 1
+    }
+  ],
+  "lo-fi-hip-hop": [
+    {
+      "id": "4sUTagdmyuyAxd7RvbygpQ",
+      "title": "aruarian dance",
+      "artist": "Nujabes",
+      "album": "samurai champloo music record departure",
+      "artwork": "https://i.scdn.co/image/ab67616d0000485159ef99ed996b4e537ed2e6a3",
+      "spotifyUrl": "https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ",
+      "note": "Warm jazz guitar sample, dusty drums, mellow groove, and hazy analog texture.",
+      "index": 0
+    },
+    {
+      "id": "0HSwIZSDeOQX8Cu9pCGkjS",
+      "title": "Affection",
+      "artist": "Jinsang",
+      "album": "Life",
+      "artwork": "https://i.scdn.co/image/ab67616d000048511440e78cc9b9e0f45596396e",
+      "spotifyUrl": "https://open.spotify.com/track/0HSwIZSDeOQX8Cu9pCGkjS",
+      "note": "Dusty soul sampling, soft boom-bap drums, vinyl haze, and a relaxed looping groove.",
+      "index": 1
+    }
+  ],
+  "new-jack-swing": [
+    {
+      "id": "7t4rA2AxpG7yAhgRwopfn2",
+      "title": "Groove Me",
+      "artist": "Guy",
+      "album": "Guy",
+      "artwork": "https://i.scdn.co/image/ab67616d00004851c2123511c8cd53c7329c91d6",
+      "spotifyUrl": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2",
+      "note": "Hard syncopated drum-machine swing, synth-funk hooks, sampling, and powerful R&B vocals.",
+      "index": 0
+    },
+    {
+      "id": "6m59VvDUi0UQsB2eZ9wVbH",
+      "title": "Poison",
+      "artist": "Bell Biv DeVoe",
+      "album": "Poison",
+      "artwork": "https://i.scdn.co/image/ab67616d000048510ce91190aaea70dd4fe020c4",
+      "spotifyUrl": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH",
+      "note": "Rapid-fire snares, punchy hip-hop drums, funky bass, rap phrasing, and slick R&B harmonies.",
+      "index": 1
+    }
+  ],
+  "christmas": [
+    {
+      "id": "4Zwt04D6mzQ9B91PqJ50ZD",
+      "title": "White Christmas",
+      "artist": "Bing Crosby",
+      "album": "Holiday Inn (Original Motion Picture Soundtrack)",
+      "artwork": "https://i.scdn.co/image/ab67616d00004851817f460681f322fd0fa4ab99",
+      "spotifyUrl": "https://open.spotify.com/track/4Zwt04D6mzQ9B91PqJ50ZD",
+      "note": "Warm crooning, lush orchestration, gentle bells, and nostalgic mid-century holiday-pop atmosphere.",
+      "index": 0
+    },
+    {
+      "id": "0bYg9bo50gSsH3LtXe2SQn",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "album": "Merry Christmas",
+      "artwork": "https://i.scdn.co/image/ab67616d00004851c0862332847213b151ffab31",
+      "spotifyUrl": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn",
+      "note": "Sleigh bells, jubilant piano, dense Wall-of-Sound production, and soaring gospel-pop vocals.",
+      "index": 1
+    }
+  ],
+  "phonk": [
+    {
+      "id": "0nRldjut6xoNAC6sg4Z0ri",
+      "title": "Pheel Tha Phonk 1990",
+      "artist": "3Zen Tha Trinity",
+      "album": "Pheel Tha Phonk 1990",
+      "artwork": "https://i.scdn.co/image/ab67616d000048513144731154671f79fc9a1f4b",
+      "spotifyUrl": "https://open.spotify.com/track/0nRldjut6xoNAC6sg4Z0ri",
+      "note": "Murky Memphis samples, tape hiss, crawling drums, ominous vocals, and druggy lo-fi atmosphere. Note: The exact SpaceGhostPurrp recording was not available on Spotify, so this Spotify-listed version was substituted.",
+      "index": 0
+    },
+    {
+      "id": "1gIWfKuP8dtKdnhksBCmWW",
+      "title": "Feel Like Im Ballin', Pt. 1",
+      "artist": "Dj Smokey",
+      "album": "Codeine Demonz, Vol. 2",
+      "artwork": "https://i.scdn.co/image/ab67616d0000485177b9a1bfe1ec3699341145ab",
+      "spotifyUrl": "https://open.spotify.com/track/1gIWfKuP8dtKdnhksBCmWW",
+      "note": "Chopped Memphis vocals, booming 808s, screwed pacing, and smoky sample-heavy production.",
+      "index": 1
+    }
+  ],
+  "drill": [
+    {
+      "id": "1h6kgem1ai8vUgO1rZOwfB",
+      "title": "I Don't Like",
+      "artist": "Chief Keef, Lil Reese",
+      "album": "Finally Rich",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891",
+      "spotifyUrl": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB",
+      "note": "Thudding drums, eerie synths, blunt repetition, and an unrushed, menacing vocal delivery.",
+      "index": 0
+    },
+    {
+      "id": "3702l19pLmnSRKFEzDnVeM",
+      "title": "Dior",
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo",
+      "artwork": "https://i.scdn.co/image/ab67616d0000b273c1522381cb5d91ef16326867",
+      "spotifyUrl": "https://open.spotify.com/track/3702l19pLmnSRKFEzDnVeM",
+      "note": "Definitive Brooklyn drill: UK-derived production, booming low end, and forceful vocal cadence; widely regarded as a signature modern drill track.",
+      "index": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "hip-hop": {
+    "name": "Hip Hop"
+  },
+  "video-game-music": {
+    "name": "Video Game OST"
+  },
+  "anime-song": {
+    "name": "Anime OST"
+  }
+}
